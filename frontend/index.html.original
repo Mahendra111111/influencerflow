@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Influencer Onboarding System</title>
+  <link rel="icon" href="/images/favicon.ico" type="image/x-icon">
+  <meta name="description" content="A comprehensive platform for managing influencer registrations and campaigns">
+</head>
+<body>
+  <div id="root"></div>
+  <script type="module" src="/src/main.jsx"></script>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 21 21">
+  <defs>
+    <clipPath id="clip-Arrow_header">
+      <rect width="21" height="21"/>
+    </clipPath>
+  </defs>
+  <g id="Arrow_header" data-name="Arrow header" clip-path="url(#clip-Arrow_header)">
+    <path id="Tracé_2" data-name="Tracé 2" d="M1317.256-142.5l3.832,3.509,3.829-3.509" transform="translate(-1310.756 151)" fill="none" stroke="#FF645A" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

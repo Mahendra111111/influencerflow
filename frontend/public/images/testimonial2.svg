@@ -1,0 +1,14 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="30" cy="30" r="30" fill="#fff0f3" />
+  
+  <!-- Female business person silhouette -->
+  <circle cx="30" cy="20" r="10" fill="#333" />
+  <path d="M15 60 Q 30 35 45 60" fill="#333" />
+  
+  <!-- Long hair -->
+  <path d="M20 20 Q 15 30 20 40" fill="#222" />
+  <path d="M40 20 Q 45 30 40 40" fill="#222" />
+  
+  <!-- Professional attire hint -->
+  <path d="M25 35 L 35 35" stroke="#fff" stroke-width="1.5" />
+</svg> 

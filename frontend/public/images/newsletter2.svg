@@ -1,0 +1,18 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="60" height="60" rx="10" fill="#9333ea" />
+  
+  <!-- Trends chart icon -->
+  <path d="M15 45 L 45 45" stroke="#fff" stroke-width="2" />
+  <path d="M15 15 L 15 45" stroke="#fff" stroke-width="2" />
+  
+  <!-- Trend line -->
+  <path d="M15 35 L 25 25 L 35 30 L 45 15" stroke="#fff" stroke-width="2" fill="none" />
+  
+  <!-- Trend points -->
+  <circle cx="25" cy="25" r="3" fill="#fff" />
+  <circle cx="35" cy="30" r="3" fill="#fff" />
+  <circle cx="45" cy="15" r="3" fill="#fff" />
+  
+  <!-- Trend indicator -->
+  <path d="M40 15 L 45 15 L 45 20" stroke="#fff" stroke-width="2" fill="none" />
+</svg> 

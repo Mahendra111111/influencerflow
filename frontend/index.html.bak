@@ -1,0 +1,2135 @@
+<!DOCTYPE html><html lang="en-GB"><head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google-site-verification" content="iSYwF3V8NQmOyq7PRMg8a4GuxwBUMry-FnOe5pc2aGs">
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<link rel="alternate" hreflang="es-es" href="https://skeepers.io/es/influencer-marketing/">
+<link rel="alternate" hreflang="en-gb" href="https://skeepers.io/influencer-marketing/">
+<link rel="alternate" hreflang="fr-fr" href="https://skeepers.io/fr/influencer-marketing/">
+<link rel="alternate" hreflang="de-de" href="https://skeepers.io/de/influencer-marketing/">
+<link rel="alternate" hreflang="it-it" href="https://skeepers.io/it/influencer-marketing/">
+<link rel="alternate" hreflang="pt-pt" href="https://skeepers.io/pt/influencer-marketing/">
+<link rel="alternate" hreflang="x-default" href="https://skeepers.io/influencer-marketing/">
+
+	<!-- This site is optimized with the Yoast SEO plugin v23.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Skeepers - Influencer Marketing</title>
+	<meta name="description" content="An influencer marketing solution to help you run large-scale campaigns to achieve your visibility and conversion goals.">
+	<link rel="canonical" href="https://skeepers.io/influencer-marketing/">
+	<meta property="og:locale" content="en_GB">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="Skeepers - Influencer Marketing">
+	<meta property="og:description" content="An influencer marketing solution to help you run large-scale campaigns to achieve your visibility and conversion goals.">
+	<meta property="og:url" content="https://skeepers.io/influencer-marketing/">
+	<meta property="og:site_name" content="Skeepers">
+	<meta property="article:modified_time" content="2025-06-06T12:25:39+00:00">
+	<meta name="twitter:card" content="summary_large_image">
+	<script async="" src="js/gtm.js"></script><script async="" src="https://www.clarity.ms/tag/r3w89s0k9q?ref=wordpress"></script><script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://skeepers.io/influencer-marketing/","url":"https://skeepers.io/influencer-marketing/","name":"Skeepers - Influencer Marketing","isPartOf":{"@id":"https://skeepers.io/#website"},"datePublished":"2023-10-23T19:53:06+00:00","dateModified":"2025-06-06T12:25:39+00:00","description":"An influencer marketing solution to help you run large-scale campaigns to achieve your visibility and conversion goals.","breadcrumb":{"@id":"https://skeepers.io/influencer-marketing/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://skeepers.io/influencer-marketing/"]}]},{"@type":"BreadcrumbList","@id":"https://skeepers.io/influencer-marketing/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://skeepers.io/"},{"@type":"ListItem","position":2,"name":"EN – Product – Influencer Marketing"}]},{"@type":"WebSite","@id":"https://skeepers.io/#website","url":"https://skeepers.io/","name":"Skeepers","description":"It is time to get real about your UGC","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://skeepers.io/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-GB"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/skeepers.io\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.7.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id="safe-svg-svg-icon-style-inline-css">
+.safe-svg-cover{text-align:center}.safe-svg-cover .safe-svg-inside{display:inline-block;max-width:100%}.safe-svg-cover svg{height:100%;max-height:100%;max-width:100%;width:100%}
+</style>
+<link rel="stylesheet" id="wpml-blocks-css" href="css/styles.css" media="all">
+<link rel="stylesheet" id="geot-css-css" href="css/geotarget-public.min.css" media="all">
+<link rel="stylesheet" id="app/0-css" href="css/app.c3e50a.css" media="all">
+<script id="wpml-cookie-js-extra">
+var wpml_cookies = {"wp-wpml_current_language":{"value":"en","expires":1,"path":"\/"}};
+var wpml_cookies = {"wp-wpml_current_language":{"value":"en","expires":1,"path":"\/"}};
+</script>
+<script src="js/language-cookie.js" id="wpml-cookie-js" defer="" data-wp-strategy="defer"></script>
+<script src="js/jquery.min.js" id="jquery-core-js"></script>
+<script src="js/jquery-migrate.min.js" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://skeepers.io/wp-json/"><link rel="alternate" title="JSON" type="application/json" href="https://skeepers.io/wp-json/wp/v2/pages/133878"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://skeepers.io/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.7.2">
+<link rel="shortlink" href="https://skeepers.io/?p=133878">
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://skeepers.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fskeepers.io%2Finfluencer-marketing%2F">
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://skeepers.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fskeepers.io%2Finfluencer-marketing%2F&format=xml">
+<meta name="generator" content="WPML ver:4.6.13 stt:1,4,3,27,67,2;">
+		<script type="text/javascript">
+				(function(c,l,a,r,i,t,y){
+					c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;
+					t.src="https://www.clarity.ms/tag/"+i+"?ref=wordpress";y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+				})(window, document, "clarity", "script", "r3w89s0k9q");
+		</script>
+		        <script type="text/javascript">
+            window.myKey = {"WP_ENV":"production"};
+        </script>
+      <!-- Google Tag Manager -->
+  <script>
+    (function(w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        'gtm.start': new Date().getTime(),
+        event: 'gtm.js'
+      });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-P3C5MH7');
+  </script>
+  <!-- End Google Tag Manager -->
+<link rel="icon" href="images/S-skeepers-60x60.png" sizes="32x32">
+<link rel="icon" href="images/S-skeepers.png" sizes="192x192">
+<link rel="apple-touch-icon" href="images/S-skeepers.png">
+<meta name="msapplication-TileImage" content="https://skeepers.io/app/uploads/2023/10/S-skeepers.png">
+		<style id="wp-custom-css">
+			.subtitle-demo-form a {
+    text-decoration: underline;
+    color: #8257ff;
+}
+
+.hero-v3-logo-second {
+    margin-left: 35px;
+    padding-left: 35px;
+    position: relative;
+}
+
+.max-w-\[143px\] {
+    max-width: 143px;
+}
+.hero-v3-logo-second:before {
+    background-color: hsla(0, 0%, 100%, .6);
+    content: "";
+    height: 23px;
+    left: 0;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 1px;
+}
+.page-template-template-demo .js_mob_container, .page-template-template-demo  .js-bloc-buttons-header, .page-template-template-demo .js_switcher_lang, .page-template-template-demo .js_icone_burger {
+    display: none;
+}
+@media (min-width: 1024px) {
+    .lg\:max-w-\[194px\] {
+        max-width: 194px;
+    }
+}
+
+@media (min-width: 1174px) {
+  .xl\:grid-cols-3  {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .xl\:grid-cols-4  {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .xl\:grid-cols-5  {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
+  .xl\:grid-cols-2  {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+.geotr-ajax{
+	display: none !important;
+}
+</style>
+		  <script async="" id="dreamdata-form-identify" src="js/identify-form.min.js" data-hubspot-forms="true"></script>
+  <script src="js/wp-emoji-release.min.js" defer=""></script></head>
+
+
+<body class="page-template-default page page-id-133878 wp-embed-responsive influencer-marketing">
+    <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P3C5MH7" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  
+  <div id="app">
+    <a class="sr-only focus:not-sr-only" href="#main">
+    Skip to content
+</a>
+
+    <script>
+  window.dataLayer = window.dataLayer || [];
+
+  function decodeHTMLEntities(text) {
+    const textArea = document.createElement('textarea');
+    textArea.innerHTML = text;
+    return textArea.value;
+  }
+
+  const event = {
+    'event': 'datalayer-loaded',
+    'pageType': decodeHTMLEntities('other'),
+    'language': decodeHTMLEntities('en'),
+    'env_channel': decodeHTMLEntities('desktop'),
+    'page_cat': decodeHTMLEntities('other'),
+  };
+  window.dataLayer.push(event);
+</script>
+
+            <header class="header fixed z-[100] w-full lg:fixed lg:z-[999] lg:h-auto" x-data="menu">
+    <div class="min-h-75 lg:min-h-88 lg:px-22 shadow-[0px_4px_10px_0px_rgba(0,0,0,0.02)] flex flex-col bg-white lg:flex-row lg:items-center lg:justify-between">
+        <div class="px-37 py-25 lg:py-0  flex w-full flex-row items-center justify-between border-solid border-[#E5E5E5] bg-white lg:mr-10 lg:border-none lg:px-0 xl:w-fit xl:px-20">
+            <div class="w-115 lg:w-130 lg:mr-30 relative cursor-pointer">
+                <img loading="lazy" class="w-full object-cover" src="images/skeepers-logo.6c447c.svg" alt="Logo Skeepers">
+                <a class="z-2 absolute left-0 top-0 h-full w-full" href="https://skeepers.io"></a>
+            </div>
+
+            <div class="flex items-center lg:hidden">
+                                    <div class="js_switcher_lang lg:pl-30 rounded-6 mr-20 flex cursor-pointer items-center border border-[#E5E5E5] py-3 pl-4">
+                        <p class="text-grayscale-dark js-current-language text-15 leading-1 mr-3 uppercase lg:mr-10">
+                            en</p>
+                        <svg aria-hidden="true" focusable="false" class="w-25 text-main-blue" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 21 21">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1021" data-name="Rectangle 1021" width="13" height="13" fill="none" stroke="#ff645a" stroke-width="0.5"></rect>
+    </clipPath>
+    <clipPath id="clip-Langue">
+      <rect width="21" height="21"></rect>
+    </clipPath>
+  </defs>
+  <g id="Langue" clip-path="url(#clip-Langue)">
+    <g id="Groupe_1019" data-name="Groupe 1019" transform="translate(4 4)">
+      <g id="Groupe_940" data-name="Groupe 940" clip-path="url(#clip-path)">
+        <circle id="Ellipse_17" data-name="Ellipse 17" cx="6.169" cy="6.169" r="6.169" transform="translate(0.323 12.661) rotate(-89.927)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.5"></circle>
+        <ellipse id="Ellipse_18" data-name="Ellipse 18" cx="3.298" cy="6.169" rx="3.298" ry="6.169" transform="translate(3.202 0.331)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.5"></ellipse>
+        <line id="Ligne_213" data-name="Ligne 213" x1="12.337" transform="translate(0.331 6.5)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.5"></line>
+        <line id="Ligne_214" data-name="Ligne 214" x1="10.444" transform="translate(1.278 3.348)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.5"></line>
+        <line id="Ligne_215" data-name="Ligne 215" x1="10.444" transform="translate(1.278 9.652)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.5"></line>
+        <line id="Ligne_216" data-name="Ligne 216" y2="12.337" transform="translate(6.5 0.331)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.5"></line>
+      </g>
+    </g>
+  </g>
+</svg>                    </div>
+                                <div class="js_icone_burger block w-20 cursor-pointer lg:hidden">
+                    <img loading="lazy" class="w-full object-cover" src="images/menu-2.7024a4.svg" alt="Open mobile menu button">
+                </div>
+            </div>
+            <div class="js_mob_container xxl:w-fit xxl:px-0 h-full w-full flex-col overflow-hidden py-0 lg:flex lg:flex-row lg:items-center lg:justify-between lg:overflow-auto lg:bg-white pr-20 lg:px-10 lg:py-0">
+
+                <ul class="nav flex flex-col lg:flex-row">
+                    <li class="w-[90%] relative lg:hidden">
+                        <div class="js_icone_delete absolute z-[999] hidden w-20 cursor-pointer lg:hidden right-10 -top-70">
+                            <img loading="lazy" class="w-full object-cover" src="images/delete.3a30e2.svg" @click="close()" alt="Close mobile menu button">
+                        </div>
+                    </li>
+                                                                                                                                <li class="nav__item custom-item-parent-hover text-17 lg:py-25 lg:text-14  mb-45 lg:mb-0  leading-23 font-primary text-main-blackBtn lg:mr-15 xxl:mr-25 font-normal" :class="openMenu === 1 ? 'active-custom-parent' : ''">
+                                    <a class="pb-13 relative flex w-[90%] lg:w-full lg:pb-0 cursor-pointer" @click="open(1)">
+                                        <span class="w-[90%] lg:w-full">Our products</span>
+                                        <svg aria-hidden="true" focusable="false" class="js-arrow-item-menu w-35 lg:w-25 font-bold -rotate-90 lg:rotate-0 absolute right-0 -top-8 lg:top-0 lg:relative text-grayscale-dark" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 21 21">
+  <defs>
+    <clipPath id="clip-Arrow_header">
+      <rect width="21" height="21"></rect>
+    </clipPath>
+  </defs>
+  <g id="Arrow_header" data-name="Arrow header" clip-path="url(#clip-Arrow_header)">
+    <path id="Tracé_2" data-name="Tracé 2" d="M1317.256-142.5l3.832,3.509,3.829-3.509" transform="translate(-1310.756 151)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+  </g>
+</svg>                                    </a>
+                                    <span class="overlay-mega-menu" @click="close()" :class="openMenu === 1 ? 'overlay-active' : ''"></span>
+                                    <div class="nav__item__submenu pb-5 pt-20 lg:absolute lg:left-0 lg:top-48 lg:my-0 lg:w-full lg:translate-x-0 lg:bg-transparent lg:py-40 z-9" :class="openMenu === 1 ? 'lg:block ' : 'translate-x-full'">
+                                        <ul class=" lg:border-b-1 relative h-full w-full bg-white lg:flex lg:w-full lg:items-center lg:border-solid lg:border-[#E5E5E5] lg:pl-0">
+                                            <div class="block lg:hidden  pl-37 ">
+                                                <div class="relative mb-20 flex flex-row items-center">
+                                                    <!--?xml version="1.0" encoding="utf-8"?-->
+<!-- Generator: Adobe Illustrator 27.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg aria-hidden="true" focusable="false" class="w-23 h-15 font-bold rotate-180 text-grayscale-dark absolute -left-30" version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 6.9 12.8" style="enable-background:new 0 0 6.9 12.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#2F2F2F;}
+</style>
+<path class="st0" d="M1,12.8c-0.2,0-0.5-0.1-0.7-0.3c-0.4-0.4-0.4-1-0.1-1.4l4.3-4.7L0.3,1.7c-0.4-0.4-0.3-1,0.1-1.4s1-0.3,1.4,0.1
+	l4.9,5.4c0.4,0.4,0.4,1,0,1.4l-4.9,5.4C1.5,12.7,1.3,12.8,1,12.8z"></path>
+</svg>                                                                                                            <p class="text-14 leading-18 text-grayscale-dark cursor-pointer">
+                                                            All</p>
+                                                                                                        <span @click="close()" class="-left-30 z-4 absolute top-0 h-full w-full cursor-pointer"></span>
+                                                </div>
+                                                <p class="text-17 leading-22 text-[#9FA2A9] mb-30">
+                                                    Our products</p>
+                                            </div>
+
+                                                                                                                                                <div class="bg-gray-sub-menu absolute top-0 left-0 h-screen w-0 bg-[#00000014] -z-[1] hidden lg:block"></div>
+<div class="submenu-products-inner flex flex-col lg:flex-row max-w-[1300px] mx-auto pt-0 pb-30 lg:py-40 px-30 lg:px-20 gap-20 lg:gap-40 xl:gap-90">
+    <div class="w-full lg:mx-auto flex-1">
+        <div class="flex flex-col">
+                            <p class="hidden lg:block mb-15 text-main-blackLight font-[TiemposFine] text-22 leading-26 w-full">
+                    Products</p>
+                        <ul class="flex flex-wrap flex-col lg:flex-row gap-x-30 xl:gap-x-50 gap-y-25 lg:gap-y-20 no-review-feedback">
+                                                            <li class="js-header-submenu-link w-full lg:w-[calc(50%-15px)] xl:w-[calc(50%-25px)] relative text-left transition ease-out duration-300 group order-0">
+                            <div class="flex w-full items-start">
+                                <img loading="lazy" class="w-30 h-auto object-cover" src="images/Verifies_Reviews_Icon.svg" alt="Verified Reviews">
+                                <div class="ml-10 mt-4 lg:mt-0">
+                                    <p class="hover-title-menu-platform__title text-14 font-semibold font-primary text-[#1F2022] group-hover:text-main-blueMenuHover transition ease-out duration-300 leading-21 js-header-subtitle">
+                                        Verified Reviews <span class="hidden lg:inline-block">by <img class="hidden lg:inline-block" src="images/Skeepers-logo-1.svg"></span></p>
+                                    <p class="hover-title-menu-platform__title hidden lg:block text-12 font-normal font-primary text-[#50545D] transition ease-out duration-300 leading-17 js-header-subtitle">
+                                        Collect and showcase certified customer reviews to strengthen your online reputation and generate more revenue.</p>
+                                </div>
+                            </div>
+                            <a class="absolute top-0 left-0 w-full h-full" href="https://skeepers.io/verified-reviews/" @click.stop=""></a>
+                        </li>
+                                            <li class="js-header-submenu-link w-full lg:w-[calc(50%-15px)] xl:w-[calc(50%-25px)] relative text-left transition ease-out duration-300 group order-1">
+                            <div class="flex w-full items-start">
+                                <img loading="lazy" class="w-30 h-auto object-cover" src="images/Feedback-Management_Icon-square.svg" alt="Feedback Management">
+                                <div class="ml-10 mt-4 lg:mt-0">
+                                    <p class="hover-title-menu-platform__title text-14 font-semibold font-primary text-[#1F2022] group-hover:text-main-blueMenuHover transition ease-out duration-300 leading-21 js-header-subtitle">
+                                        Feedback Management</p>
+                                    <p class="hover-title-menu-platform__title hidden lg:block text-12 font-normal font-primary text-[#50545D] transition ease-out duration-300 leading-17 js-header-subtitle">
+                                        Collect and analyze customer feedback to improve the experience, your products, and customer satisfaction.</p>
+                                </div>
+                            </div>
+                            <a class="absolute top-0 left-0 w-full h-full" href="https://skeepers.io/feedback-management/" @click.stop=""></a>
+                        </li>
+                                            <li class="js-header-submenu-link w-full lg:w-[calc(50%-15px)] xl:w-[calc(50%-25px)] relative text-left transition ease-out duration-300 group order-2">
+                            <div class="flex w-full items-start">
+                                <img loading="lazy" class="w-30 h-auto object-cover" src="images/Influencer-Marketing_Icon.svg" alt="Influencer Marketing">
+                                <div class="ml-10 mt-4 lg:mt-0">
+                                    <p class="hover-title-menu-platform__title text-14 font-semibold font-primary text-[#1F2022] group-hover:text-main-blueMenuHover transition ease-out duration-300 leading-21 js-header-subtitle">
+                                        Influencer Marketing</p>
+                                    <p class="hover-title-menu-platform__title hidden lg:block text-12 font-normal font-primary text-[#50545D] transition ease-out duration-300 leading-17 js-header-subtitle">
+                                        Collaborate with influencers to increase your visibility, engage your audience, and boost your sales.</p>
+                                </div>
+                            </div>
+                            <a class="absolute top-0 left-0 w-full h-full" href="https://skeepers.io/influencer-marketing/" @click.stop=""></a>
+                        </li>
+                                            <li class="js-header-submenu-link w-full lg:w-[calc(50%-15px)] xl:w-[calc(50%-25px)] relative text-left transition ease-out duration-300 group order-3">
+                            <div class="flex w-full items-start">
+                                <img loading="lazy" class="w-30 h-auto object-cover" src="images/Brand-Communities-.svg" alt="Brand Communities">
+                                <div class="ml-10 mt-4 lg:mt-0">
+                                    <p class="hover-title-menu-platform__title text-14 font-semibold font-primary text-[#1F2022] group-hover:text-main-blueMenuHover transition ease-out duration-300 leading-21 js-header-subtitle">
+                                        Brand Communities</p>
+                                    <p class="hover-title-menu-platform__title hidden lg:block text-12 font-normal font-primary text-[#50545D] transition ease-out duration-300 leading-17 js-header-subtitle">
+                                        Build an engaged community to co-create, recommend your products, and strengthen brand loyalty.</p>
+                                </div>
+                            </div>
+                            <a class="absolute top-0 left-0 w-full h-full" href="https://skeepers.io/brand-communities/" @click.stop=""></a>
+                        </li>
+                                    
+                            </ul>
+        </div>
+    </div>
+            <div class="h-full bg-main-blueMenuExtension p-20 lg:py-30 lg:px-40 rounded-10 w-full lg:w-[280px] xl:w-[396px] lg:rounded-15">
+            <div class="flex items-center pb-5">
+                <img src="images/menu-products-extension.b6246a.svg" alt="Brand Communities" class="w-27 h-27 mr-10">
+                <p class="text-main-blueHover font-[TiemposFine] text-18 lg:text-19 leading-[100%] font-medium">
+                    Explore Extensions</p>
+            </div>
+            <div class="flex justify-between flex-wrap ml-15 lg:ml-20">
+                                    <div class="flex w-full items-center mt-18 lg:mt-20 cursor-pointer relative transition ease-out duration-300 hover:translate-x-5">
+                        <img src="images/right-arrow-blue.d258db.svg" alt="Gifted Reviews" class="w-13 h-8 mr-10">
+                        <p class="text-white font-primary font-bold text-14">Gifted Reviews</p>
+                        <a href="https://skeepers.io/gifted-reviews/" class="absolute top-0 left-0 w-full h-full"></a>
+                    </div>
+                                    <div class="flex w-full items-center mt-18 lg:mt-20 cursor-pointer relative transition ease-out duration-300 hover:translate-x-5">
+                        <img src="images/right-arrow-blue.d258db.svg" alt="Live Shopping" class="w-13 h-8 mr-10">
+                        <p class="text-white font-primary font-bold text-14">Live Shopping</p>
+                        <a href="https://skeepers.io/live-shopping/" class="absolute top-0 left-0 w-full h-full"></a>
+                    </div>
+                                    <div class="flex w-full items-center mt-18 lg:mt-20 cursor-pointer relative transition ease-out duration-300 hover:translate-x-5">
+                        <img src="images/right-arrow-blue.d258db.svg" alt="Consumer Videos" class="w-13 h-8 mr-10">
+                        <p class="text-white font-primary font-bold text-14">Consumer Videos</p>
+                        <a href="https://skeepers.io/consumer-video/" class="absolute top-0 left-0 w-full h-full"></a>
+                    </div>
+                                    <div class="flex w-full items-center mt-18 lg:mt-20 cursor-pointer relative transition ease-out duration-300 hover:translate-x-5">
+                        <img src="images/right-arrow-blue.d258db.svg" alt="Shoppable Content" class="w-13 h-8 mr-10">
+                        <p class="text-white font-primary font-bold text-14">Shoppable Content</p>
+                        <a href="https://skeepers.io/shoppable-content/" class="absolute top-0 left-0 w-full h-full"></a>
+                    </div>
+                                    <div class="flex w-full items-center mt-18 lg:mt-20 cursor-pointer relative transition ease-out duration-300 hover:translate-x-5">
+                        <img src="images/right-arrow-blue.d258db.svg" alt="Syndication" class="w-13 h-8 mr-10">
+                        <p class="text-white font-primary font-bold text-14">Syndication</p>
+                        <a href="https://skeepers.io/syndication/" class="absolute top-0 left-0 w-full h-full"></a>
+                    </div>
+                            </div>
+        </div>
+    </div>
+                                                                                            
+                                            
+                                        </ul>
+                                    </div>
+                                </li>
+                                                                                                                                                                                    <li class="nav__item custom-item-parent-hover text-17 lg:py-25 lg:text-14  mb-45 lg:mb-0  leading-23 font-primary text-main-blackBtn lg:mr-15 xxl:mr-25 font-normal" :class="openMenu === 2 ? 'active-custom-parent' : ''">
+                                    <a class="pb-13 relative flex w-[90%] lg:w-full lg:pb-0 cursor-pointer" @click="open(2)">
+                                        <span class="w-[90%] lg:w-full">Our solutions</span>
+                                        <svg aria-hidden="true" focusable="false" class="js-arrow-item-menu w-35 lg:w-25 font-bold -rotate-90 lg:rotate-0 absolute right-0 -top-8 lg:top-0 lg:relative text-grayscale-dark" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 21 21">
+  <defs>
+    <clipPath id="clip-Arrow_header">
+      <rect width="21" height="21"></rect>
+    </clipPath>
+  </defs>
+  <g id="Arrow_header" data-name="Arrow header" clip-path="url(#clip-Arrow_header)">
+    <path id="Tracé_2" data-name="Tracé 2" d="M1317.256-142.5l3.832,3.509,3.829-3.509" transform="translate(-1310.756 151)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+  </g>
+</svg>                                    </a>
+                                    <span class="overlay-mega-menu" @click="close()" :class="openMenu === 2 ? 'overlay-active' : ''"></span>
+                                    <div class="nav__item__submenu pb-5 pt-20 lg:absolute lg:left-0 lg:top-48 lg:my-0 lg:w-full lg:translate-x-0 lg:bg-transparent lg:py-40 z-9" :class="openMenu === 2 ? 'lg:block ' : 'translate-x-full'">
+                                        <ul class=" pl-37 lg:py-50 lg:bg-white  lg:border-b-1 relative h-full w-full bg-white lg:flex lg:w-full lg:items-center lg:border-solid lg:border-[#E5E5E5] lg:pl-0">
+                                            <div class="block lg:hidden ">
+                                                <div class="relative mb-20 flex flex-row items-center">
+                                                    <!--?xml version="1.0" encoding="utf-8"?-->
+<!-- Generator: Adobe Illustrator 27.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg aria-hidden="true" focusable="false" class="w-23 h-15 font-bold rotate-180 text-grayscale-dark absolute -left-30" version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 6.9 12.8" style="enable-background:new 0 0 6.9 12.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#2F2F2F;}
+</style>
+<path class="st0" d="M1,12.8c-0.2,0-0.5-0.1-0.7-0.3c-0.4-0.4-0.4-1-0.1-1.4l4.3-4.7L0.3,1.7c-0.4-0.4-0.3-1,0.1-1.4s1-0.3,1.4,0.1
+	l4.9,5.4c0.4,0.4,0.4,1,0,1.4l-4.9,5.4C1.5,12.7,1.3,12.8,1,12.8z"></path>
+</svg>                                                                                                            <p class="text-14 leading-18 text-grayscale-dark cursor-pointer">
+                                                            All</p>
+                                                                                                        <span @click="close()" class="-left-30 z-4 absolute top-0 h-full w-full cursor-pointer"></span>
+                                                </div>
+                                                <p class="text-17 leading-22 text-[#9FA2A9] mb-30">
+                                                    Our solutions</p>
+                                            </div>
+
+                                                                                                                                                <div class="bg-gray-sub-menu absolute top-0 left-0 h-screen w-0 bg-[#00000014] -z-[1] hidden lg:block"></div>
+<div class="lg:px-90 flex flex-col lg:flex-row lg:m-auto">
+                        <div class="flex flex-col  mb-30 lg:mb-0 lg:mr-[4.76%] ">
+                <p class="font-secondary text-main-blueHover font-semibold text-16 leading-19 pb-10 border-b border-b-[#C5DFFF] mb-25 lg:mb-20">
+                    Collect UGC</p>
+                                    <div class="relative group  mb-14 lg:mb-20 ">
+                        <p class="font-primary font-semibold text-14 leading-18 mb-4 text-[#1F2022] lg:text-main-blackMenu group-hover:text-main-blueMenuHover transition ease-out duration-300">
+                            Collect Authentic Reviews</p>
+                        <p class="hidden lg:block font-primary font-light text-12 leading-16 text-grayscale-menu">
+                            Gather genuine, verified reviews from real customers. Maximize traffic. Turbo charge brand visibility.</p>
+                        <a href="https://skeepers.io/solution-collect-authentic-reviews/" class="absolute top-0 left-0 w-full h-full"></a>
+                    </div>
+                                    <div class="relative group  mb-14 lg:mb-20 ">
+                        <p class="font-primary font-semibold text-14 leading-18 mb-4 text-[#1F2022] lg:text-main-blackMenu group-hover:text-main-blueMenuHover transition ease-out duration-300">
+                            Generate Content</p>
+                        <p class="hidden lg:block font-primary font-light text-12 leading-16 text-grayscale-menu">
+                            Easily enable consumers, influencers and brand ambassadors to create various types of UGC at scale.</p>
+                        <a href="https://skeepers.io/solution-generate-content/" class="absolute top-0 left-0 w-full h-full"></a>
+                    </div>
+                                    <div class="relative group ">
+                        <p class="font-primary font-semibold text-14 leading-18 mb-4 text-[#1F2022] lg:text-main-blackMenu group-hover:text-main-blueMenuHover transition ease-out duration-300">
+                            Identify your best creators</p>
+                        <p class="hidden lg:block font-primary font-light text-12 leading-16 text-grayscale-menu">
+                            Powerful analytics to identify and engage your top creators for partnerships & ambassador programs.</p>
+                        <a href="https://skeepers.io/solution-identify-your-best-creators/" class="absolute top-0 left-0 w-full h-full"></a>
+                    </div>
+                            </div>
+                    <div class="flex flex-col  mb-30 lg:mb-0 lg:mr-[4.76%] ">
+                <p class="font-secondary text-main-blueHover font-semibold text-16 leading-19 pb-10 border-b border-b-[#C5DFFF] mb-25 lg:mb-20">
+                    Build Awareness</p>
+                                    <div class="relative group  mb-14 lg:mb-20 ">
+                        <p class="font-primary font-semibold text-14 leading-18 mb-4 text-[#1F2022] lg:text-main-blackMenu group-hover:text-main-blueMenuHover transition ease-out duration-300">
+                            Launch Products</p>
+                        <p class="hidden lg:block font-primary font-light text-12 leading-16 text-grayscale-menu">
+                            Successful product launches start here. Identify needs. Validate product concepts. Generate buzz.</p>
+                        <a href="https://skeepers.io/solution-launch-products/" class="absolute top-0 left-0 w-full h-full"></a>
+                    </div>
+                                    <div class="relative group  mb-14 lg:mb-20 ">
+                        <p class="font-primary font-semibold text-14 leading-18 mb-4 text-[#1F2022] lg:text-main-blackMenu group-hover:text-main-blueMenuHover transition ease-out duration-300">
+                            Increase your social Footprint</p>
+                        <p class="hidden lg:block font-primary font-light text-12 leading-16 text-grayscale-menu">
+                            Boost brand visibility by adapting to trends and expanding your reach across social platforms</p>
+                        <a href="https://skeepers.io/solution-increase-social-footprint/" class="absolute top-0 left-0 w-full h-full"></a>
+                    </div>
+                                    <div class="relative group ">
+                        <p class="font-primary font-semibold text-14 leading-18 mb-4 text-[#1F2022] lg:text-main-blackMenu group-hover:text-main-blueMenuHover transition ease-out duration-300">
+                            Manage your e-reputation</p>
+                        <p class="hidden lg:block font-primary font-light text-12 leading-16 text-grayscale-menu">
+                            Protect & enhance your e-reputation with active monitoring & UGC. Improve ratings on 3rd party pages.</p>
+                        <a href="https://skeepers.io/solution-manage-your-e-reputation/" class="absolute top-0 left-0 w-full h-full"></a>
+                    </div>
+                            </div>
+                    <div class="flex flex-col  mb-30 lg:mb-0 lg:mr-[4.76%] ">
+                <p class="font-secondary text-main-blueHover font-semibold text-16 leading-19 pb-10 border-b border-b-[#C5DFFF] mb-25 lg:mb-20">
+                    Drive Revenue</p>
+                                    <div class="relative group  mb-14 lg:mb-20 ">
+                        <p class="font-primary font-semibold text-14 leading-18 mb-4 text-[#1F2022] lg:text-main-blackMenu group-hover:text-main-blueMenuHover transition ease-out duration-300">
+                            Enhance product page effectiveness</p>
+                        <p class="hidden lg:block font-primary font-light text-12 leading-16 text-grayscale-menu">
+                            Integrate UGC photos, videos & reviews on product pages. Show social proof. Build trust. Drive sales</p>
+                        <a href="https://skeepers.io/solution-enhance-product-page-effectiveness/" class="absolute top-0 left-0 w-full h-full"></a>
+                    </div>
+                                    <div class="relative group  mb-14 lg:mb-20 ">
+                        <p class="font-primary font-semibold text-14 leading-18 mb-4 text-[#1F2022] lg:text-main-blackMenu group-hover:text-main-blueMenuHover transition ease-out duration-300">
+                            Drive online & offline traffic</p>
+                        <p class="hidden lg:block font-primary font-light text-12 leading-16 text-grayscale-menu">
+                            Work smarter not harder. Optimize your UGC collection to drive online traffic to physical stores.</p>
+                        <a href="https://skeepers.io/solution-drive-online-offline-traffic/" class="absolute top-0 left-0 w-full h-full"></a>
+                    </div>
+                                    <div class="relative group ">
+                        <p class="font-primary font-semibold text-14 leading-18 mb-4 text-[#1F2022] lg:text-main-blackMenu group-hover:text-main-blueMenuHover transition ease-out duration-300">
+                            Syndicate your content</p>
+                        <p class="hidden lg:block font-primary font-light text-12 leading-16 text-grayscale-menu">
+                            Syndicate your content and expand your marketing reach & impact with minimal resources.</p>
+                        <a href="https://skeepers.io/solution-syndicate-your-content/" class="absolute top-0 left-0 w-full h-full"></a>
+                    </div>
+                            </div>
+                    <div class="flex flex-col ">
+                <p class="font-secondary text-main-blueHover font-semibold text-16 leading-19 pb-10 border-b border-b-[#C5DFFF] mb-25 lg:mb-20">
+                    Retain Customers</p>
+                                    <div class="relative group  mb-14 lg:mb-20 ">
+                        <p class="font-primary font-semibold text-14 leading-18 mb-4 text-[#1F2022] lg:text-main-blackMenu group-hover:text-main-blueMenuHover transition ease-out duration-300">
+                            Build & engage customer communities</p>
+                        <p class="hidden lg:block font-primary font-light text-12 leading-16 text-grayscale-menu">
+                            Create a vibrant community where customers can engage & interact with each other and your brand.</p>
+                        <a href=" https://skeepers.io/solution-build-engage-communities/ " class="absolute top-0 left-0 w-full h-full"></a>
+                    </div>
+                                    <div class="relative group  mb-14 lg:mb-20 ">
+                        <p class="font-primary font-semibold text-14 leading-18 mb-4 text-[#1F2022] lg:text-main-blackMenu group-hover:text-main-blueMenuHover transition ease-out duration-300">
+                            Capture voice of the customer</p>
+                        <p class="hidden lg:block font-primary font-light text-12 leading-16 text-grayscale-menu">
+                            Use customer insights across channels to shape products. Collect, manage & prioritize feedback</p>
+                        <a href="https://skeepers.io/solution-capture-voice-customer/" class="absolute top-0 left-0 w-full h-full"></a>
+                    </div>
+                                    <div class="relative group ">
+                        <p class="font-primary font-semibold text-14 leading-18 mb-4 text-[#1F2022] lg:text-main-blackMenu group-hover:text-main-blueMenuHover transition ease-out duration-300">
+                            Data & Insights</p>
+                        <p class="hidden lg:block font-primary font-light text-12 leading-16 text-grayscale-menu">
+                            Leverage smart data and analytics to transform consumer data into impactful insights that fuel growth and innovation</p>
+                        <a href="https://skeepers.io/data-and-insights/" class="absolute top-0 left-0 w-full h-full"></a>
+                    </div>
+                            </div>
+            </div>
+                                                                                            
+                                            
+                                        </ul>
+                                    </div>
+                                </li>
+                                                                                                                                                                                                                                                        <li class="nav__item custom-item-parent-hover text-17 lg:py-25 lg:text-14  mb-45 lg:mb-0  leading-23 font-primary text-main-blackBtn lg:mr-15 xxl:mr-25 font-normal" :class="openMenu === 4 ? 'active-custom-parent' : ''">
+                                    <a class="pb-13 relative flex w-[90%] lg:w-full lg:pb-0 cursor-pointer" @click="open(4)">
+                                        <span class="w-[90%] lg:w-full">Our customers</span>
+                                        <svg aria-hidden="true" focusable="false" class="js-arrow-item-menu w-35 lg:w-25 font-bold -rotate-90 lg:rotate-0 absolute right-0 -top-8 lg:top-0 lg:relative text-grayscale-dark" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 21 21">
+  <defs>
+    <clipPath id="clip-Arrow_header">
+      <rect width="21" height="21"></rect>
+    </clipPath>
+  </defs>
+  <g id="Arrow_header" data-name="Arrow header" clip-path="url(#clip-Arrow_header)">
+    <path id="Tracé_2" data-name="Tracé 2" d="M1317.256-142.5l3.832,3.509,3.829-3.509" transform="translate(-1310.756 151)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+  </g>
+</svg>                                    </a>
+                                    <span class="overlay-mega-menu" @click="close()" :class="openMenu === 4 ? 'overlay-active' : ''"></span>
+                                    <div class="nav__item__submenu pb-5 pt-20 lg:absolute lg:left-0 lg:top-48 lg:my-0 lg:w-full lg:translate-x-0 lg:bg-transparent lg:py-40 z-9" :class="openMenu === 4 ? 'lg:block ' : 'translate-x-full'">
+                                        <ul class=" pl-37 lg:py-50 lg:bg-white  lg:border-b-1 relative h-full w-full bg-white lg:flex lg:w-full lg:items-center lg:border-solid lg:border-[#E5E5E5] lg:pl-0">
+                                            <div class="block lg:hidden ">
+                                                <div class="relative mb-20 flex flex-row items-center">
+                                                    <!--?xml version="1.0" encoding="utf-8"?-->
+<!-- Generator: Adobe Illustrator 27.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg aria-hidden="true" focusable="false" class="w-23 h-15 font-bold rotate-180 text-grayscale-dark absolute -left-30" version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 6.9 12.8" style="enable-background:new 0 0 6.9 12.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#2F2F2F;}
+</style>
+<path class="st0" d="M1,12.8c-0.2,0-0.5-0.1-0.7-0.3c-0.4-0.4-0.4-1-0.1-1.4l4.3-4.7L0.3,1.7c-0.4-0.4-0.3-1,0.1-1.4s1-0.3,1.4,0.1
+	l4.9,5.4c0.4,0.4,0.4,1,0,1.4l-4.9,5.4C1.5,12.7,1.3,12.8,1,12.8z"></path>
+</svg>                                                                                                            <p class="text-14 leading-18 text-grayscale-dark cursor-pointer">
+                                                            All</p>
+                                                                                                        <span @click="close()" class="-left-30 z-4 absolute top-0 h-full w-full cursor-pointer"></span>
+                                                </div>
+                                                <p class="text-17 leading-22 text-[#9FA2A9] mb-30">
+                                                    Our customers</p>
+                                            </div>
+
+                                                                                                                                                <div class="bg-gray-sub-menu absolute top-0 left-0 h-screen w-0 bg-[#00000014] -z-[1] hidden lg:block"></div>
+
+    <div class="lg:flex lg:flex-row lg:flex-wrap justify-center m-auto">
+                                                        <div class="js-header-submenu-link lg:block w-full lg:w-fit rounded-10 lg:mb-10 lg:mr-20 xl:mr-80 last:mr-0 group">
+                        <div class=" w-230 xl:mr-5 relative rounded-10 overflow-hidden">
+                            <p class="text-left lg:text-center mb-30 lg:mb-12 text-16 lg:text-14 font-semibold lg:font-bold font-primary text-[#1F2022] lg:text-main-blackBtn leading-21 lg:leading-18 group-hover:text-main-blue js-header-subtitle">Success stories</p>
+                            <div class="hidden lg:inline-block lg:w-full lg:h-130 overflow-hidden rounded-10">
+                                <img loading="lazy" class="rounded-10 w-full h-full object-cover transition-transform duration-300 ease-in-out group-hover:scale-[1.06] " src="images/Menu-CasesStudies.webp" alt="Success stories">
+                            </div>
+                            <a class="z-2 cursor-pointer absolute top-0 left-0 h-full w-full" href="https://skeepers.io/case-studies/" @click.stop=""></a>
+                        </div>
+                    </div>
+                                                                <div class="js-header-submenu-link lg:block w-full lg:w-fit rounded-10 lg:mb-10 lg:mr-20 xl:mr-80 last:mr-0 group">
+                        <div class=" w-230 xl:mr-5 relative rounded-10 overflow-hidden">
+                            <p class="text-left lg:text-center mb-30 lg:mb-12 text-16 lg:text-14 font-semibold lg:font-bold font-primary text-[#1F2022] lg:text-main-blackBtn leading-21 lg:leading-18 group-hover:text-main-blue js-header-subtitle">Video Gallery</p>
+                            <div class="hidden lg:inline-block lg:w-full lg:h-130 overflow-hidden rounded-10">
+                                <img loading="lazy" class="rounded-10 w-full h-full object-cover transition-transform duration-300 ease-in-out group-hover:scale-[1.06] " src="images/Menu-Video-Gallery.webp" alt="Video Gallery">
+                            </div>
+                            <a class="z-2 cursor-pointer absolute top-0 left-0 h-full w-full" href="https://skeepers.io/video-gallery/" @click.stop=""></a>
+                        </div>
+                    </div>
+                                                                <div class="js-header-submenu-link lg:block w-full lg:w-fit rounded-10 lg:mb-10 lg:mr-20 xl:mr-80 last:mr-0 group">
+                        <div class=" w-230 xl:mr-5 relative rounded-10 overflow-hidden">
+                            <p class="text-left lg:text-center mb-30 lg:mb-12 text-16 lg:text-14 font-semibold lg:font-bold font-primary text-[#1F2022] lg:text-main-blackBtn leading-21 lg:leading-18 group-hover:text-main-blue js-header-subtitle">Services</p>
+                            <div class="hidden lg:inline-block lg:w-full lg:h-130 overflow-hidden rounded-10">
+                                <img loading="lazy" class="rounded-10 w-full h-full object-cover transition-transform duration-300 ease-in-out group-hover:scale-[1.06] " src="images/Menu-Our-Accompagnement.webp" alt="Services">
+                            </div>
+                            <a class="z-2 cursor-pointer absolute top-0 left-0 h-full w-full" href="https://skeepers.io/services/" @click.stop=""></a>
+                        </div>
+                    </div>
+                                                                <div class="js-header-submenu-link lg:block w-full lg:w-fit rounded-10 lg:mb-10 lg:mr-20 xl:mr-80 last:mr-0 group">
+                        <div class=" w-230 xl:mr-5 relative rounded-10 overflow-hidden">
+                            <p class="text-left lg:text-center mb-30 lg:mb-12 text-16 lg:text-14 font-semibold lg:font-bold font-primary text-[#1F2022] lg:text-main-blackBtn leading-21 lg:leading-18 group-hover:text-main-blue js-header-subtitle">Help Center</p>
+                            <div class="hidden lg:inline-block lg:w-full lg:h-130 overflow-hidden rounded-10">
+                                <img loading="lazy" class="rounded-10 w-full h-full object-cover transition-transform duration-300 ease-in-out group-hover:scale-[1.06] " src="images/Menu-helpCenter.webp" alt="Help Center">
+                            </div>
+                            <a class="z-2 cursor-pointer absolute top-0 left-0 h-full w-full" href="https://skeepers.io/help-center/" @click.stop=""></a>
+                        </div>
+                    </div>
+                                        </div>
+
+                                                                                            
+                                            
+                                        </ul>
+                                    </div>
+                                </li>
+                                                                                                                                                                                    <li class="nav__item custom-item-parent-hover text-17 lg:py-25 lg:text-14  mb-30 lg:mb-0  leading-23 font-primary text-main-blackBtn lg:mr-15 xxl:mr-25 font-normal" :class="openMenu === 5 ? 'active-custom-parent' : ''">
+                                    <a class="pb-13 relative flex w-[90%] lg:w-full lg:pb-0 cursor-pointer" @click="open(5)">
+                                        <span class="w-[90%] lg:w-full">Resources</span>
+                                        <svg aria-hidden="true" focusable="false" class="js-arrow-item-menu w-35 lg:w-25 font-bold -rotate-90 lg:rotate-0 absolute right-0 -top-8 lg:top-0 lg:relative text-grayscale-dark" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 21 21">
+  <defs>
+    <clipPath id="clip-Arrow_header">
+      <rect width="21" height="21"></rect>
+    </clipPath>
+  </defs>
+  <g id="Arrow_header" data-name="Arrow header" clip-path="url(#clip-Arrow_header)">
+    <path id="Tracé_2" data-name="Tracé 2" d="M1317.256-142.5l3.832,3.509,3.829-3.509" transform="translate(-1310.756 151)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></path>
+  </g>
+</svg>                                    </a>
+                                    <span class="overlay-mega-menu" @click="close()" :class="openMenu === 5 ? 'overlay-active' : ''"></span>
+                                    <div class="nav__item__submenu pb-5 pt-20 lg:absolute lg:left-0 lg:top-48 lg:my-0 lg:w-full lg:translate-x-0 lg:bg-transparent lg:py-40 z-9" :class="openMenu === 5 ? 'lg:block ' : 'translate-x-full'">
+                                        <ul class=" pl-37 lg:py-50 lg:bg-white  lg:border-b-1 relative h-full w-full bg-white lg:flex lg:w-full lg:items-center lg:border-solid lg:border-[#E5E5E5] lg:pl-0">
+                                            <div class="block lg:hidden ">
+                                                <div class="relative mb-20 flex flex-row items-center">
+                                                    <!--?xml version="1.0" encoding="utf-8"?-->
+<!-- Generator: Adobe Illustrator 27.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg aria-hidden="true" focusable="false" class="w-23 h-15 font-bold rotate-180 text-grayscale-dark absolute -left-30" version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 6.9 12.8" style="enable-background:new 0 0 6.9 12.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#2F2F2F;}
+</style>
+<path class="st0" d="M1,12.8c-0.2,0-0.5-0.1-0.7-0.3c-0.4-0.4-0.4-1-0.1-1.4l4.3-4.7L0.3,1.7c-0.4-0.4-0.3-1,0.1-1.4s1-0.3,1.4,0.1
+	l4.9,5.4c0.4,0.4,0.4,1,0,1.4l-4.9,5.4C1.5,12.7,1.3,12.8,1,12.8z"></path>
+</svg>                                                                                                            <p class="text-14 leading-18 text-grayscale-dark cursor-pointer">
+                                                            All</p>
+                                                                                                        <span @click="close()" class="-left-30 z-4 absolute top-0 h-full w-full cursor-pointer"></span>
+                                                </div>
+                                                <p class="text-17 leading-22 text-[#9FA2A9] mb-30">
+                                                    Resources</p>
+                                            </div>
+
+                                                                                                                                                <div class="bg-gray-sub-menu absolute top-0 left-0 h-screen w-0 bg-[#00000014] -z-[1] hidden lg:block"></div>
+<div class="lg:w-[90%] xxxl:w-[75%] lg:mx-auto flex flex-col lg:flex-row lg:justify-between lg:items-center lg:py-0 py-4">
+    <div class="lg:flex lg:flex-row lg:justify-between lg:w-full lg:items-center">
+        <div class="w-full lg:flex lg:items-center">
+            <div class="w-full flex flex-col items-start lg:flex-row lg:items-center lg:flex-wrap lg:gap-x-10 lg:gap-y-10">
+                                                                                        <div class="js-header-submenu-link w-full lg:block lg:w-[32%] resource-hover-item mb-30 lg:mb-0 lg:p-15 lg:bg-main-blueMenu lg:hover:bg-main-blueMenuBgHover transition ease-out duration-300 rounded-10">
+                                <p class="resource-hover-item__title  text-left lg:mb-0 text-16 font-semibold text-[#1F2022] lg:text-main-blackMenu group-hover:text-main-blueMenuHover transition ease-out duration-300  leading-21 lg:text-14 lg:font-bold font-primary  lg:leading-22 ">
+                                    <a class="z-2 cursor-pointer h-full w-full js-header-subtitle" href="https://skeepers.io/blog/" @click.stop="">Blog</a>
+                                </p>
+                                                                    <p class="hidden lg:block text-left mt-5  text-[#1F2022] lg:text-13 font-normal font-primary lg:leading-18 relative">
+                                        Read our latest articles
+                                        <a class="hidden lg:block absolute top-0 left-0  z-2 cursor-pointer h-full w-full" href="https://skeepers.io/blog/"></a>
+                                    </p>
+                                                            </div>
+                                                                                                <div class="js-header-submenu-link w-full lg:block lg:w-[32%] resource-hover-item mb-30 lg:mb-0 lg:p-15 lg:bg-main-blueMenu lg:hover:bg-main-blueMenuBgHover transition ease-out duration-300 rounded-10">
+                                <p class="resource-hover-item__title  text-left lg:mb-0 text-16 font-semibold text-[#1F2022] lg:text-main-blackMenu group-hover:text-main-blueMenuHover transition ease-out duration-300  leading-21 lg:text-14 lg:font-bold font-primary  lg:leading-22 ">
+                                    <a class="z-2 cursor-pointer h-full w-full js-header-subtitle" href="https://skeepers.io/case-study/" @click.stop="">Case studies</a>
+                                </p>
+                                                                    <p class="hidden lg:block text-left mt-5  text-[#1F2022] lg:text-13 font-normal font-primary lg:leading-18 relative">
+                                        Discover our clients successes
+                                        <a class="hidden lg:block absolute top-0 left-0  z-2 cursor-pointer h-full w-full" href="https://skeepers.io/case-study/"></a>
+                                    </p>
+                                                            </div>
+                                                                                                <div class="js-header-submenu-link w-full lg:block lg:w-[32%] resource-hover-item mb-30 lg:mb-0 lg:p-15 lg:bg-main-blueMenu lg:hover:bg-main-blueMenuBgHover transition ease-out duration-300 rounded-10">
+                                <p class="resource-hover-item__title  text-left lg:mb-0 text-16 font-semibold text-[#1F2022] lg:text-main-blackMenu group-hover:text-main-blueMenuHover transition ease-out duration-300  leading-21 lg:text-14 lg:font-bold font-primary  lg:leading-22 ">
+                                    <a class="z-2 cursor-pointer h-full w-full js-header-subtitle" href="https://skeepers.io/webinars/" @click.stop="">Webinars</a>
+                                </p>
+                                                                    <p class="hidden lg:block text-left mt-5  text-[#1F2022] lg:text-13 font-normal font-primary lg:leading-18 relative">
+                                        Our webinars calendar 
+                                        <a class="hidden lg:block absolute top-0 left-0  z-2 cursor-pointer h-full w-full" href="https://skeepers.io/webinars/"></a>
+                                    </p>
+                                                            </div>
+                                                                                                <div class="js-header-submenu-link w-full lg:block lg:w-[32%] resource-hover-item mb-30 lg:mb-0 lg:p-15 lg:bg-main-blueMenu lg:hover:bg-main-blueMenuBgHover transition ease-out duration-300 rounded-10">
+                                <p class="resource-hover-item__title  text-left lg:mb-0 text-16 font-semibold text-[#1F2022] lg:text-main-blackMenu group-hover:text-main-blueMenuHover transition ease-out duration-300  leading-21 lg:text-14 lg:font-bold font-primary  lg:leading-22 ">
+                                    <a class="z-2 cursor-pointer h-full w-full js-header-subtitle" href="https://skeepers.io/ebook/" @click.stop="">Ebooks</a>
+                                </p>
+                                                                    <p class="hidden lg:block text-left mt-5  text-[#1F2022] lg:text-13 font-normal font-primary lg:leading-18 relative">
+                                        Check our ebooks
+                                        <a class="hidden lg:block absolute top-0 left-0  z-2 cursor-pointer h-full w-full" href="https://skeepers.io/ebook/"></a>
+                                    </p>
+                                                            </div>
+                                                                                                <div class="js-header-submenu-link w-full lg:block lg:w-[32%] resource-hover-item mb-30 lg:mb-0 lg:p-15 lg:bg-main-blueMenu lg:hover:bg-main-blueMenuBgHover transition ease-out duration-300 rounded-10">
+                                <p class="resource-hover-item__title  text-left lg:mb-0 text-16 font-semibold text-[#1F2022] lg:text-main-blackMenu group-hover:text-main-blueMenuHover transition ease-out duration-300  leading-21 lg:text-14 lg:font-bold font-primary  lg:leading-22 ">
+                                    <a class="z-2 cursor-pointer h-full w-full js-header-subtitle" href="https://skeepers.io/tei-forrester/" @click.stop="">Total Economic Impact™ Study of Skeepers </a>
+                                </p>
+                                                                    <p class="hidden lg:block text-left mt-5  text-[#1F2022] lg:text-13 font-normal font-primary lg:leading-18 relative">
+                                         
+                                        <a class="hidden lg:block absolute top-0 left-0  z-2 cursor-pointer h-full w-full" href="https://skeepers.io/tei-forrester/"></a>
+                                    </p>
+                                                            </div>
+                                                                        </div>
+        </div>
+        <div class="hidden lg:block bg-[#E1E1E1] h-140 w-1 mx-60 lg:my-auto"></div>
+        <div class="w-280  xl:w-410 lg:pb-10 justify-between items-center h-fit hidden lg:flex">
+                            <div class="w-280  xl:w-410 lg:h-160 lg:mx-auto hover-card-resource group">
+                    <a href="https://skeepers.io/lp/ebook-ugc-25/">
+                        <div class="xl:w-full h-full  rounded-10 relative overflow-hidden">
+                            <img loading="lazy" class="w-full h-full object-cover rounded-10 transition ease-out duration-300" src="images/CTA-highlight-UGC-trend-en.jpg" alt="Hightlight image">
+                                                        <div class="flex items-center p-15 w-[90%] mr-auto absolute bottom-0 left-0 transition ease-out duration-300 group-hover:translate-x-10">
+                                <img src="images/arrow-ressources-menu.ccae57.svg" alt="Making Customer Voices Count" class="mr-10 w-13 h-8">
+                                <p class="text-14 font-bold font-primary text-white leading-22">
+                                    Making Customer Voices Count
+                                </p>
+                               
+                            </div>
+                                                    </div>
+                    </a>
+                </div>
+                    </div>
+    </div>
+</div>
+                                                                                            
+                                            
+                                        </ul>
+                                    </div>
+                                </li>
+                                                                                            <div class="btn-header-mob-section block lg:hidden">
+                                                    <a class="inline-flex items-center white transition relative px-30 py-18 text-16 leading-25 font-bold rounded-[30px] h-30 mt-30 lg:text-14 font-primary leading-22 flex items-center whitespace-nowrap border border-[#8257FF] bg-transparent !px-10 py-5 align-middle font-normal text-[#8257FF] hover:bg-[#F8F4FF] focus:bg-[#F8F4FF] lg:mt-0" href="https://community.skeepers.io/">
+  
+  Influencer area
+
+  </a>
+                                                
+                                                    <a class="inline-flex items-center white transition relative px-30 py-18 text-16 leading-25 font-bold rounded-[30px] bg-main-blue border-main-blue hover:bg-main-blueHover hover:border-main-blueHover focus:bg-main-blueHover focus:border-main-blueHover lg:px-15 xxl:px-43 !px-35 mt-30 block whitespace-nowrap border text-white lg:mt-0 lg:hidden" href="https://skeepers.io/demo/">
+  
+  Get a demo
+
+  </a>
+                                            </div>
+                </ul>
+            </div>
+        </div>
+        <div class="js-bloc-buttons-header px-37 lg:px-10 w-full lg:w-fit flex lg:flex-row flex-col items-start lg:justify-between lg:items-center hidden lg:flex">
+  
+  <div class="flex justify-end items-center w-fit">
+        <a class="inline-flex items-center white transition relative px-30 py-18 text-16 leading-25 font-bold rounded-[30px] 
+    bg-transparent text-[#8257FF] border border-[#8257FF] hover:bg-[#F8F4FF] focus:bg-[#F8F4FF] h-30 py-5 !px-10 mt-30 lg:mt-0 whitespace-nowrap lg:text-14 font-primary leading-22 font-normal js-header-redirect" href="https://community.skeepers.io/">
+  
+  Influencer area
+
+  </a>
+              <ul class="switcher-dropdown relative bg-transparent">
+    <div class="js_switcher_lang lg:pl-30 rounded-4 border-main-blue focus:border-main-blue flex cursor-pointer items-center border-2 p-6 lg:border-none">
+        <p class="text-main-blue lg:text-grayscale-dark js-current-language mr-5 uppercase lg:mr-10">
+            en
+        </p>
+        <svg aria-hidden="true" focusable="false" class="w-30 text-main-blue" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 21 21">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1021" data-name="Rectangle 1021" width="13" height="13" fill="none" stroke="#ff645a" stroke-width="0.5"></rect>
+    </clipPath>
+    <clipPath id="clip-Langue">
+      <rect width="21" height="21"></rect>
+    </clipPath>
+  </defs>
+  <g id="Langue" clip-path="url(#clip-Langue)">
+    <g id="Groupe_1019" data-name="Groupe 1019" transform="translate(4 4)">
+      <g id="Groupe_940" data-name="Groupe 940" clip-path="url(#clip-path)">
+        <circle id="Ellipse_17" data-name="Ellipse 17" cx="6.169" cy="6.169" r="6.169" transform="translate(0.323 12.661) rotate(-89.927)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.5"></circle>
+        <ellipse id="Ellipse_18" data-name="Ellipse 18" cx="3.298" cy="6.169" rx="3.298" ry="6.169" transform="translate(3.202 0.331)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.5"></ellipse>
+        <line id="Ligne_213" data-name="Ligne 213" x1="12.337" transform="translate(0.331 6.5)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.5"></line>
+        <line id="Ligne_214" data-name="Ligne 214" x1="10.444" transform="translate(1.278 3.348)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.5"></line>
+        <line id="Ligne_215" data-name="Ligne 215" x1="10.444" transform="translate(1.278 9.652)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.5"></line>
+        <line id="Ligne_216" data-name="Ligne 216" y2="12.337" transform="translate(6.5 0.331)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.5"></line>
+      </g>
+    </g>
+  </g>
+</svg>    </div>
+
+	    <div class="switcher-dropdown__submenu inherit left-0 top-20 hidden pt-16 lg:absolute z-1" style="z-index: 1">
+        <div class="pt-15 w-100 rounded-5 boxShadow-1 flex flex-col bg-white pb-5 shadow-[3px_3px_15px_#00000012]">
+                                                                            <li class="mb-15 last:mb-5 js-lang">
+                        <a href="https://skeepers.io/es/influencer-marketing/" class="pl-30 text-14 leading-27 font-primary hover:text-main-blackBtn block cursor-pointer uppercase">es</a>
+                    </li>
+                                                                <li class="mb-15 last:mb-5 js-lang">
+                        <a href="https://skeepers.io/de/influencer-marketing/" class="pl-30 text-14 leading-27 font-primary hover:text-main-blackBtn block cursor-pointer uppercase">de</a>
+                    </li>
+                                                                <li class="mb-15 last:mb-5 js-lang">
+                        <a href="https://skeepers.io/fr/influencer-marketing/" class="pl-30 text-14 leading-27 font-primary hover:text-main-blackBtn block cursor-pointer uppercase">fr</a>
+                    </li>
+                                                                <li class="mb-15 last:mb-5 js-lang">
+                        <a href="https://skeepers.io/it/influencer-marketing/" class="pl-30 text-14 leading-27 font-primary hover:text-main-blackBtn block cursor-pointer uppercase">it</a>
+                    </li>
+                                                                <li class="mb-15 last:mb-5 js-lang">
+                        <a href="https://skeepers.io/pt/influencer-marketing/" class="pl-30 text-14 leading-27 font-primary hover:text-main-blackBtn block cursor-pointer uppercase">pt</a>
+                    </li>
+                                    </div>
+    </div>
+	</ul>
+        
+          <a class="inline-flex items-center white transition relative px-30 py-18 text-16 leading-25 font-bold rounded-[30px] 
+          bg-main-blue text-white border border-main-blue
+          hover:bg-main-blueHover hover:border-main-blueHover focus:bg-main-blueHover focus:border-main-blueHover px-15 lg:px-30 mt-30 lg:mt-0 lg:py-10
+          whitespace-nowrap lg:text-12 xxl:text-16 lg:ml-15 font-bold font-primary leading-25 js-demo-button js-demo-button-header" href="https://skeepers.io/demo/">
+  
+  Get a demo
+
+  </a>
+      </div>
+</div>        <div class="nav_bg hidden"></div>
+    </div>
+
+                        <div id="banner-languages" class="relative w-full py-6 md:py-15 pl-35 lg:pl-170 xl:pl-190 xxl:pl-205 pr-40 flex items-center justify-between" style="background-color: #E0ECFF; --hover-color: #006FF5">
+                <div class="flex gap-10 items-start md:items-center">
+                                            <div class="flag">
+                            <img class="max-w-20" src="images/Flag-fr.png" alt="">
+                        </div>
+                                        <div class="text-14 leading-22 font-semibold flex gap-0 md:gap-10 flex-col md:flex-row items-start lg:items-center" style="color: #565961">
+                                                    <p>Your region is set to France.</p>
+<div id="ookdjilphngeeeghgngjabigmpepanpl"></div>
+
+                                                                            <a id="banner-link-language" href="https://skeepers.io/fr/" class="banner-link text-14 leading-22 font-normal underline decoration-solid decoration-1 underline-offset-auto inline-block" style="text-decoration-skip-ink: none; text-underline-position: from-font;">See the French Skeepers website.</a>
+                                            </div>
+                </div>
+                <div id="close-banner-redirect" class="cursor-pointer">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="9" height="10" viewBox="0 0 9 10" fill="none">
+                        <path d="M8.79492 8.25391C9.04102 8.52734 9.04102 8.9375 8.79492 9.18359C8.52148 9.45703 8.11133 9.45703 7.86523 9.18359L4.63867 5.92969L1.38477 9.18359C1.11133 9.45703 0.701172 9.45703 0.455078 9.18359C0.181641 8.9375 0.181641 8.52734 0.455078 8.25391L3.70898 5L0.455078 1.74609C0.181641 1.47266 0.181641 1.0625 0.455078 0.816406C0.701172 0.542969 1.11133 0.542969 1.35742 0.816406L4.63867 4.09766L7.89258 0.84375C8.13867 0.570312 8.54883 0.570312 8.79492 0.84375C9.06836 1.08984 9.06836 1.5 8.79492 1.77344L5.54102 5L8.79492 8.25391Z" fill="#313235"></path>
+                    </svg>
+                </div>
+            </div>
+            </header>
+
+<script>
+    function menu() {
+        return {
+            openMenu: 0,
+            isMobile: window.innerWidth <= 1024,
+
+            open(i) {
+                if (!this.isMobile) return;
+
+                if (this.openMenu === i) {
+                    this.openMenu = 0;
+                } else {
+                    this.openMenu = i;
+                }
+            },
+
+            close() {
+                this.openMenu = 0;
+            },
+
+            checkScreen() {
+                this.isMobile = window.innerWidth <= 1024;
+                if (!this.isMobile) {
+                    this.openMenu = 0;
+                }
+            }
+        }
+    }
+
+    window.addEventListener("resize", () => {
+        document.querySelectorAll("[x-data]").forEach(el => {
+            if (el.__x) el.__x.$data.checkScreen();
+        });
+    });
+</script>
+
+
+<div class="switcher_dropdown_mob switcher-dropdown__submenu switcher-lange-mob-header">
+		<ul class="switcher-lange-mob-header__menu flex flex-col bg-white pt-80">
+				<div class="js_icone_delete_switcher right-15 absolute top-20 z-[999] hidden w-20 cursor-pointer lg:hidden">
+						<img loading="lazy" class="w-full object-cover" src="images/delete.3a30e2.svg" @click="close()" alt="Close mobile menu button">
+				</div>
+
+																												<li class="mb-30 last:mb-5 js-lang">
+										<a href="https://skeepers.io/es/influencer-marketing/" class="pl-30 text-16 leading-21 font-primary hover:text-main-blue block cursor-pointer">Spanish</a>
+								</li>
+																								<li class="mb-30 last:mb-5 js-lang">
+										<a href="https://skeepers.io/de/influencer-marketing/" class="pl-30 text-16 leading-21 font-primary hover:text-main-blue block cursor-pointer">German</a>
+								</li>
+																								<li class="mb-30 last:mb-5 js-lang">
+										<a href="https://skeepers.io/fr/influencer-marketing/" class="pl-30 text-16 leading-21 font-primary hover:text-main-blue block cursor-pointer">French</a>
+								</li>
+																								<li class="mb-30 last:mb-5 js-lang">
+										<a href="https://skeepers.io/it/influencer-marketing/" class="pl-30 text-16 leading-21 font-primary hover:text-main-blue block cursor-pointer">Italian</a>
+								</li>
+																								<li class="mb-30 last:mb-5 js-lang">
+										<a href="https://skeepers.io/pt/influencer-marketing/" class="pl-30 text-16 leading-21 font-primary hover:text-main-blue block cursor-pointer">Portuguese</a>
+								</li>
+												</ul>
+</div>
+<div class="lang_bg hidden"></div>
+    <main id="main" data-type1="lead_initiation" data-type2="product_page" class="main overflow-x-hidden pt-78 lg:pt-87 min-h-[calc(100vh-274px)] has-banner-languages relative">
+                              <div class="hero-v4 js-solution-page" style="background-color: #f2f7ff;">
+    <div class="herogeneric-paddingTop-desk" style="padding-top:0px;"></div>
+<div class="herogeneric-paddingTop-mob" style="padding-top:0px;"></div>    <div class="container max-w-[1440px] lg:p-0">
+        <div class="flex flex-col items-center gap-60 w-full  lg:flex-row ">
+            <div class="hidden flex-1 lg:block">
+                                    <img src="images/Hero-product-IM-2.webp" alt="">
+                            </div>
+            <div class="flex flex-col items-center lg:items-start w-full lg:max-w-500 xl:max-w-581  pr-0 lg:pr-50 xl:pr-80  ">
+                
+                                    <div class="w-45 h-45 lg:w-55 lg:h-55 mb-10">
+                        <img src="images/Influencer-Marketing_Icon.svg" alt="">
+                    </div>
+                                <div class="hero-v4-title">
+                    <h1 class="titre-M"><span style="color: #001f63;">Influencer Marketing</span></h1>
+
+                </div>
+                                    <div class="mt-20 block lg:hidden">
+                        <img src="images/Hero-product-IM-2.webp" alt="">
+                    </div>
+                                                    <div class="mt-20 lg:mt-16 text-16 leading-26 text-main-blackMenu">
+                        <p><span style="color: #001f63;">An AI-powered solution that helps brands discover, connect with, and manage a community of vetted creators—including consumers, micro, and nano influencers. Our comprehensive offering enables brands to create, manage, and scale influencer campaigns on social channels like TikTok and Instagram, while supporting authentic gifted product reviews across multiple channels.</span></p>
+
+                    </div>
+                
+                
+                
+                                    <div class="flex flex-col items-center lg:flex-row lg:items-start gap-0 lg:gap-15 mt-10 lg:mt-20">
+                                                    <div class="mt-20 flex justify-center lg:justify-start">
+                            <a class="inline-flex items-center white transition relative px-30 py-18 text-16 leading-25 font-bold rounded-[30px] border bg-main-blue border-main-blue hover:border-main-blueHover text-white hover:text-white hover:bg-main-blueHover group-hover:border-main-blueHover group-hover:bg-main-blueHover  justify-center w-auto" href="/register" target="_self" rel="noopener noreferrer" data-event="" data-position="" data-ebook="">
+  
+  Register as Influencer
+
+  </a>
+                                </div>
+    
+                                                        <div class="mt-20 flex justify-center lg:justify-start">
+                            <a class="inline-flex items-center white transition relative px-30 py-18 text-16 leading-25 font-bold rounded-[30px] border bg-transparent border-[#006FF5] hover:border-[#0073FF] text-main-blue hover:bg-[#EDF5FF] group-hover:border-border-[#0073FF] group-hover:bg-[#EDF5FF] justify-center w-auto" href="https://skeepers.io/demo/?preferred_solution_new=Influencer%20Management" target="_self" rel="noopener noreferrer" data-event="" data-position="" data-ebook="">
+  
+  Talk to an Expert
+
+  </a>
+                                </div>
+    
+                                                </div>
+                            </div>
+        </div>
+                    <div class="max-w-[1240px] mx-auto pb-30 gap-25 lg:gap-0 lg:pb-20 flex flex-col justify-center pt-40 lg:flex-row lg:pt-10">
+                                    <div class="px-0 py-0 lg:px-30 lg:py-20 flex flex-col items-center gap-5">
+                        <span class="font-tertiary text-55 lg:text-70 leading-60 lg:leading-75 font-black" style="color:#0073FF;">
+                            58%
+                        </span>
+                                                    <span class="text-14 leading-22 text-center text-[#040C21]" style="color:#001f63;">
+                                increase in brand visibility
+                            </span>
+                                            </div>
+                                    <div class="px-0 py-0 lg:px-30 lg:py-20 flex flex-col items-center gap-5">
+                        <span class="font-tertiary text-55 lg:text-70 leading-60 lg:leading-75 font-black" style="color:#0073FF;">
+                            71%
+                        </span>
+                                                    <span class="text-14 leading-22 text-center text-[#040C21]" style="color:#001f63;">
+                                of shoppers are likely to buy a product recommended by an influencer they trust
+                            </span>
+                                            </div>
+                                    <div class="px-0 py-0 lg:px-30 lg:py-20 flex flex-col items-center gap-5">
+                        <span class="font-tertiary text-55 lg:text-70 leading-60 lg:leading-75 font-black" style="color:#0073FF;">
+                            100,000
+                        </span>
+                                                    <span class="text-14 leading-22 text-center text-[#040C21]" style="color:#001f63;">
+                                nano and micro-influencers in the Skeepers community
+                            </span>
+                                            </div>
+                            </div>
+            </div>
+    <div class="herogeneric-paddingBottom-desk" style="padding-bottom:0px;"></div>
+<div class="herogeneric-paddingBottom-mob" style="padding-bottom:0px;"></div></div>
+              
+          <div class="s1-text-image pt-50 lg:pt-100 pb-50 lg:pb-100" style="background-color:#02020a">
+		<div class="container flex flex-col-reverse items-center justify-between
+    lg:gap-40 xl:gap-60 xxl:gap-90
+    max-w-[1330px]
+    lg:flex-row">
+
+        <div class="overflow-hidden mb-30 order-2 lg:order-none lg:mb-0 w-full lg:w-1/2 xl:w-600 h-auto lg:h-500  ">
+                            <img loading="lazy" class="w-full object-contain md:h-full md:object-cover" src="images/IM-intro.jpg" alt="" style="border-radius:60px">
+            
+                                </div>
+
+        <div class="flex-1 order-1 w-full lg:order-none              lg:order-none ">
+            
+                            <div class="mb-20 ">
+                    <h2><span style="color: #ffffff;">Boost product launches and seasonal promotions with our creator community</span></h2>
+
+                </div>
+            
+            <div class="wysiwyg yellow-circled-list ">
+                <p><span style="color: #afb2b8;">Automate and scale brand ambassadors outreach, collect text reviews and social posts, boost seasonal promotions and keep your campaigns fresh. Our community of 100,000+ pre-vetted nano and micro influencers generate authentic content about brands and products that drive conversions and boost brand awareness.</span></p>
+</div>
+
+            
+            
+            
+            <div class=" mt-20 lg:mt-40 ">
+                            </div>
+        </div>
+    </div>
+	</div>
+            <div class="s1-text-image mt-60 lg:mt-100 mb-60 lg:mb-100">
+		<div class="container flex flex-col-reverse items-center justify-between
+    lg:gap-40 xl:gap-60 xxl:gap-90
+    max-w-[1330px]
+    lg:flex-row">
+
+        <div class="overflow-hidden mb-30 order-2 lg:order-none lg:mb-0 w-full lg:w-1/2 xl:w-600 h-auto lg:h-500  ">
+                            <img loading="lazy" class="w-full object-contain md:h-full md:object-cover" src="images/IM-Why-01.jpg" alt="" style="border-radius:60px">
+            
+                                </div>
+
+        <div class="flex-1 order-1 w-full lg:order-none              lg:order-none ">
+            
+                            <div class="mb-20 ">
+                    <h3>Easily find and manage influencers from a single interface</h3>
+
+                </div>
+            
+            <div class="wysiwyg yellow-circled-list ">
+                <p>With the Skeepers all-in-one Marketing Influencer solution, launching large-scale campaigns has never been easier. 100,000+ micro and nano influencers use Skeepers to work with brands that inspire them. We make it easy to manage them all through a single interface.</p>
+<p> Utilize Skeepers' Personal Profile feature to fine-tune your search to connect with creators who genuinely align with your brand's ethos and can generate high-quality UGC and reviews for your products.</p>
+</div>
+
+            
+            
+            
+            <div class=" mt-20 lg:mt-40 ">
+                            </div>
+        </div>
+    </div>
+	</div>
+            <div class="s1-text-image mt-60 lg:mt-100 mb-60 lg:mb-100">
+		<div class="container flex flex-col-reverse items-center justify-between
+    lg:gap-40 xl:gap-60 xxl:gap-90
+    max-w-[1330px]
+    lg:flex-row">
+
+        <div class="overflow-hidden mb-30 order-2 lg:order-none lg:mb-0 w-full lg:w-1/2 xl:w-600 h-auto lg:h-500  ">
+                            <img loading="lazy" class="w-full object-contain md:h-full md:object-cover" src="images/IM-Why-02.jpg" alt="" style="border-radius:60px">
+            
+                                </div>
+
+        <div class="flex-1 order-1 w-full lg:order-none              lg:order-none ">
+            
+                            <div class="mb-20 ">
+                    <h3>Automated UGC collection and rights management</h3>
+
+                </div>
+            
+            <div class="wysiwyg yellow-circled-list ">
+                <p>We automate the collection of precise, in-depth reviews for your product pages, allowing you to focus on evaluating campaign success and cultivating influencer relationships. Additionally, we manage legal permissions and licensing rights regarding content, allowing you to freely strategize and focus on outcomes.</p>
+<p> Access a repository of unique, authentic UGC</p>
+<p>Secure rights from influencers to repurpose their images and videos in your diverse marketing efforts, from advertisements to packaging or various communication mediums. Our license affords you a decade-long access to a trove of entirely authentic and exclusive UGC.</p>
+</div>
+
+            
+            
+            
+            <div class=" mt-20 lg:mt-40 ">
+                            </div>
+        </div>
+    </div>
+	</div>
+            <div class="s1-text-image mt-60 lg:mt-100 mb-60 lg:mb-100">
+		<div class="container flex flex-col-reverse items-center justify-between
+    lg:gap-40 xl:gap-60 xxl:gap-90
+    max-w-[1330px]
+    lg:flex-row">
+
+        <div class="overflow-hidden mb-30 order-2 lg:order-none lg:mb-0 w-full lg:w-1/2 xl:w-600 h-auto lg:h-500  ">
+                            <img loading="lazy" class="w-full object-contain md:h-full md:object-cover" src="images/IM-Why-03.jpg" alt="" style="border-radius:60px">
+            
+                                </div>
+
+        <div class="flex-1 order-1 w-full lg:order-none              lg:order-none ">
+            
+                            <div class="mb-20 ">
+                    <h3>Centralize all your <a href="https://skeepers.io/shoppable-content/">Shoppable Content</a></h3>
+
+                </div>
+            
+            <div class="wysiwyg yellow-circled-list ">
+                <p>Bring together all of your user generated content in a single space with <a href="https://skeepers.io/shoppable-content/">Skeepers' Shoppable Content.</a> <strong>We make your content clickable and shoppable</strong> within your product pages so you can deliver fresh, engaging and frictionless shopping experiences that drive successful conversions.</p>
+</div>
+
+            
+            
+            
+            <div class=" mt-20 lg:mt-40 ">
+                            </div>
+        </div>
+    </div>
+	</div>
+            <div class="s1-text-image mt-60 lg:mt-100 mb-60 lg:mb-100">
+		<div class="container flex flex-col-reverse items-center justify-between
+    lg:gap-40 xl:gap-60 xxl:gap-90
+    max-w-[1330px]
+    lg:flex-row">
+
+        <div class="overflow-hidden mb-30 order-2 lg:order-none lg:mb-0 w-full lg:w-1/2 xl:w-600 h-auto lg:h-340  ">
+                            <img loading="lazy" class="w-full object-contain md:h-full md:object-cover" src="images/IM-Why-04.jpg" alt="" style="border-radius:60px">
+            
+                                </div>
+
+        <div class="flex-1 order-1 w-full lg:order-none              lg:order-none ">
+            
+                            <div class="mb-20 ">
+                    <h3>Analyze results in real time</h3>
+
+                </div>
+            
+            <div class="wysiwyg yellow-circled-list ">
+                <p>We equip you with all the essential KPIs to analyze your influencer marketing campaigns across the Skeepers solution suite.</p>
+<p> Identify areas for improvement</p>
+<p>Thanks to our API integration, you are able to effortlessly track data in real-time, assess your efficiency, and quickly identify potential facets for refinement.</p>
+</div>
+
+            
+            
+            
+            <div class=" mt-20 lg:mt-40 ">
+                            </div>
+        </div>
+    </div>
+	</div>
+            <section>
+		<div class="lg:py-100 py-60" style="background-color:#1f2022;">
+				<div class="container">
+						<div class="lg:mb-78 mb-40">
+								<h2 style="text-align: center;"><span style="color: #ffffff;">Benefits of</span><br>
+<span style="color: #0073ff;">Influencer Marketing</span></h2>
+
+						</div>
+				</div>
+		</div>
+		<div class="pt-50 pb-100" style="background-color: #1f2022">
+				<div class="-mt-120 lg:-mt-145 container">
+						<div class="lg:gap-45 -mx-4 flex flex-wrap justify-center gap-20">
+																		<div class="flex flex-wrap content-baseline border px-30 md:px-60 lg:px-90 pt-30 md:pt-45 lg:pt-60 pb-70 rounded-60 lg:rounded-100 mb-8 w-full lg:w-[45%]" style="background-color: #02020a; box-shadow: 30px 30px 100px 3px rgba(0,0,0,0.50); border-color: #313235">
+																										<div class="mb-30 h-155 md:h-full md:mr-40 w-full md:w-[50%] lg:h-250 lg:w-full">
+																<img class="object-contain md:object-cover h-full rounded-40 w-full" src="images/IM-benefit-1-min-.png" alt="">
+														</div>
+																								<div class="h-inherit md:relative lg:w-full md:w-[40%]">
+														<div class="wysiwyg mb-14 w-full">
+																<h3 style="text-align: left;"><span style="color: #ffffff;">Reassure future customers with authentic content</span></h3>
+
+														</div>
+														<div class="lg:mb-30 wysiwyg w-full font-light">
+																<p><span style="color: #afb2b8;">Build trust among prospective customers with authentic content: Social media, aka word-of-mouth 2.0, serves as a powerful catalyst to spark inspirations and conversations around your brand or products. Utilize our Influencer posts and Gifted Reviews to allow your prospective customers to explore what you offer, engage with your content, and ultimately, facilitate purchase decisions</span></p>
+
+														</div>
+																										</div>
+										</div>
+																		<div class="flex flex-wrap content-baseline border px-30 md:px-60 lg:px-90 pt-30 md:pt-45 lg:pt-60 pb-70 rounded-60 lg:rounded-100 mb-8 w-full lg:w-[45%]" style="background-color: #02020a; box-shadow: 30px 30px 100px 3px rgba(0,0,0,0.50); border-color: #313235">
+																										<div class="mb-30 h-155 md:h-full md:mr-40 w-full md:w-[50%] lg:h-250 lg:w-full">
+																<img class="object-contain md:object-cover h-full rounded-40 w-full" src="images/IM-benefit-3-min-1.png" alt="">
+														</div>
+																								<div class="h-inherit md:relative lg:w-full md:w-[40%]">
+														<div class="wysiwyg mb-14 w-full">
+																<h3 style="text-align: left;"><span style="color: #ffffff;">Transform content into commerce with Shoppable Content</span></h3>
+
+														</div>
+														<div class="lg:mb-30 wysiwyg w-full font-light">
+																<p><span style="color: #afb2b8;">Skeepers's Shoppable Content turns every piece of content into a seamless shopping opportunity, allowing consumers to purchase directly from interactable, relatable, and authentic narratives. Our widget can be easily integrated into your product pages, making content shoppable to double your add to cart rates.</span></p>
+
+														</div>
+																										</div>
+										</div>
+																		<div class="flex flex-wrap content-baseline border px-30 md:px-60 lg:px-90 pt-30 md:pt-45 lg:pt-60 pb-70 rounded-60 lg:rounded-100 mb-8 w-full lg:w-[45%]" style="background-color: #02020a; box-shadow: 30px 30px 100px 1px rgba(0,0,0,0.50); border-color: #313235">
+																										<div class="mb-30 h-155 md:h-full md:mr-40 w-full md:w-[50%] lg:h-250 lg:w-full">
+																<img class="object-contain md:object-cover h-full rounded-40 w-full" src="images/IM-benefit-4-min.png" alt="">
+														</div>
+																								<div class="h-inherit md:relative lg:w-full md:w-[40%]">
+														<div class="wysiwyg mb-14 w-full">
+																<h3 style="text-align: left;"><span style="color: #ffffff;">Management of permissions and licensing</span></h3>
+
+														</div>
+														<div class="lg:mb-30 wysiwyg w-full font-light">
+																<p><span style="color: #afb2b8;">Skeepers automatically manages the process of permissions and licensing, handling all legal intricacies and rights for content, freeing you to concentrate on strategic planning and campaign outcomes.</span></p>
+
+														</div>
+																										</div>
+										</div>
+																		<div class="flex flex-wrap content-baseline border px-30 md:px-60 lg:px-90 pt-30 md:pt-45 lg:pt-60 pb-70 rounded-60 lg:rounded-100 mb-8 w-full lg:w-[45%]" style="background-color: #02020a; box-shadow: 30px 30px 100px 3px rgba(0,0,0,0.50); border-color: #313235">
+																										<div class="mb-30 h-155 md:h-full md:mr-40 w-full md:w-[50%] lg:h-250 lg:w-full">
+																<img class="object-contain md:object-cover h-full rounded-40 w-full" src="images/IM-benefit-5-min-1.png" alt="">
+														</div>
+																								<div class="h-inherit md:relative lg:w-full md:w-[40%]">
+														<div class="wysiwyg mb-14 w-full">
+																<h3 style="text-align: left;"><span style="color: #ffffff;">Improve your online reputation and brand image</span></h3>
+
+														</div>
+														<div class="lg:mb-30 wysiwyg w-full font-light">
+																<p style="text-align: left;"><span style="color: #afb2b8;">Influencers bring credibility and trust and show their followers how to use your products. Generating authentic posts about your products and services with influencers boosts your social media presence, product visibility and awareness.</span></p>
+
+														</div>
+																										</div>
+										</div>
+																		<div class="flex flex-wrap content-baseline border px-30 md:px-60 lg:px-90 pt-30 md:pt-45 lg:pt-60 pb-70 rounded-60 lg:rounded-100 mb-8 w-full lg:w-full lg:pb-60 xl:pb-25" style="background-color: #02020a; box-shadow: 30px 30px 100px 3px rgba(0,0,0,0.50); border-color: #313235">
+																										<div class="mb-30 h-155 md:h-full md:mr-40 w-full md:w-[50%]  md:mb-0 lg:mr-60 xl:h-[85%]">
+																<img class="object-contain md:object-cover h-full rounded-40 w-full" src="images/IM-benefit-6-V2-min.png" alt="">
+														</div>
+																								<div class="h-inherit md:relative md:w-[40%]">
+														<div class="wysiwyg mb-14 w-full">
+																<h3 style="text-align: left;"><span style="color: #ffffff;">Increase your sales and conversion rate</span></h3>
+
+														</div>
+														<div class="lg:mb-30 wysiwyg w-full font-light">
+																<p><span style="color: #afb2b8;">Campaign success is more often a result of focused engagement than just high follower numbers. Skeepers's influencer community, abundant with nano and micro-influencers, provides more intimate and authentic interactions. Their deep, genuine connections foster trust that significantly drives both sales and conversion rates for brands.</span></p>
+
+														</div>
+																										</div>
+										</div>
+														</div>
+										</div>
+		</div>
+</section>
+            <div style="background-color: #f2f7ff" class="relative pt-80 md:pt-100 pb-80 md:pb-100">
+        <div class="container z-10 relative js_s7 max-w-[1260px]">
+                    <div class="w-full mb-20">
+                <div class="wysiwyg block leading-30 md:leading-35">
+                    <h2 style="text-align: center;">How does it work?</h2>
+<p style="text-align: center;">Create authentic experiences in just a few clicks</p>
+
+                </div>
+            </div>
+                <div class="relative grid gap-20 lg:gap-30 grid-cols-1 lg:grid-cols-2">
+            <div class="media-col block w-full h-auto relative pb-0 lg:pb-[56.25%] lg:pb-0 vertical-video order-1 lg:order-2">
+                                    <img loading="lazy" src="images/Influencer-HowItWork-V2.jpg" alt="" class="hidden lg:block w-full h-full object-cover object-center absolute top-0 left-0 rounded-20 lg:rounded-30 ">
+
+                    <img loading="lazy" src="https://skeepers.io/app/themes/skeepers-theme/public/images/not-found.jpg" alt="Image not found" class="lg:hidden w-full h-full object-cover object-center relative top-0 left-0 rounded-20 lg:rounded-30 ">
+                            </div>
+            <div class="card-col">
+                <ul class="grid gap-10 grid-cols-1 lg:gap-15 grid-cols-1 xl:grid-cols-1 order-1">
+                                            <li>
+                            <div class="p-20 lg:p-30 bg-white rounded-20 lg:rounded-30 h-full" style="background-color: #ffffff;   box-shadow: 11px 13px 69px 0px rgba(0,115,255,0.1); ">
+    <div class="wysiwyg block leading-25 md:leading-23">
+        <h3 class="h2-semibold-24">Launch your <span style="color: #8257ff;">campaign</span></h3>
+
+    </div>
+    <div class="wysiwyg wysiwyg-card-feature mt-12"> 
+        <p>Set clear campaign objectives, including the brief, product specifics, timeline, and selection criteria. Utilize our Personal Profile feature to pinpoint influencers using over 100 demographic or consumer behavior metrics, ensuring an ideal match for your brand's ethos. Our experts are on standby to assist with strategic deployment.</p>
+
+    </div>
+</div>
+                        </li>
+                                            <li>
+                            <div class="p-20 lg:p-30 bg-white rounded-20 lg:rounded-30 h-full" style="background-color: #ffffff;   box-shadow: 11px 13px 69px 0px rgba(0,115,255,0.1); ">
+    <div class="wysiwyg block leading-25 md:leading-23">
+        <h3 class="h2-semibold-24">Select your <span style="color: #8257ff;">influencer profiles</span></h3>
+
+    </div>
+    <div class="wysiwyg wysiwyg-card-feature mt-12"> 
+        <p>Our influencer solution connects you to a large community of handpicked influencers from Instagram, TikTok and YouTube. Skeepers lets you easily reach out and manage your collaboration</p>
+
+    </div>
+</div>
+                        </li>
+                                            <li>
+                            <div class="p-20 lg:p-30 bg-white rounded-20 lg:rounded-30 h-full" style="background-color: #ffffff;   box-shadow: 11px 13px 69px 0px rgba(0,115,255,0.1); ">
+    <div class="wysiwyg block leading-25 md:leading-23">
+        <h3 class="h2-semibold-24">Generate and activate <span style="color: #8257ff;">great content</span></h3>
+
+    </div>
+    <div class="wysiwyg wysiwyg-card-feature mt-12"> 
+        <p>Access photos, consumer reviews and videos and automatically activate them across all your marketing channels. Easily integrate reviews and rich content on your own product pages, across retailer product pages, and all your social media platforms.</p>
+
+    </div>
+</div>
+                        </li>
+                                            <li>
+                            <div class="p-20 lg:p-30 bg-white rounded-20 lg:rounded-30 h-full" style="background-color: #ffffff;   box-shadow: 11px 13px 69px 0px rgba(0,115,255,0.1); ">
+    <div class="wysiwyg block leading-25 md:leading-23">
+        <h3 class="h2-semibold-24">Leverage <span style="color: #8257ff;">real time data</span> to meet your campaign goals</h3>
+
+    </div>
+    <div class="wysiwyg wysiwyg-card-feature mt-12"> 
+        <p>Monitor data in real time, analyze your performance and quickly identify areas of improvement and measure your goals. Our Marketing Influencer solution provides you with real time metrics on campaigns, influencers and their audience.</p>
+
+    </div>
+</div>
+                        </li>
+                                    </ul>
+            </div>
+        </div>
+            </div>
+    </div>
+
+            <div class="relative py-60 lg:py-100 overflow-hidden">
+  <img src="images/BIGimg-DEMO-V4.webp" alt="" class="absolute top-0 w-full h-full object-cover">
+  
+  <div class="absolute top-0 w-full h-full bg-black opacity-60"></div>
+
+  <div class="container flex flex-col justify-between items-center relative z-10 lg:flex-row-reverse">
+    <div class="lg:max-w-490">
+      <div class="mb-17 text-white text-center lg:text-start">
+        <h2><span style="color: #ffffff;">Get started with our Influencer Marketing solution.</span></h2>
+
+      </div>
+      <div class="text-16 leading-26 text-white text-center lg:text-start">
+        <p><span style="color: #ffffff;">Our experts are here to get you started or improve your Influencer Marketing strategy. Start creating compelling content with targeted influencers today.</span></p>
+
+      </div>
+    </div>
+
+    <div class="mt-50 lg:mt-0 relative">
+        <div class="
+  py-50 px-25 rounded-34 bg-white shadow-[10px_20px_60px_rgba(0,0,0,0.08)] w-full lg:w-541 demoxl:w-600
+  lg:py-60 lg:px-50 flex flex-col justify-start lg:px-[12.5px] demoxl:px-40 single-lp-business lpBusinessForm
+">
+    <div class="text-24 text-dark leading-23 font-semibold text-center block mb-28 pr-11 lg:mb-25 w-auto md:w-370 m-auto lg:my-0 font-secondary">
+        <p>Interested in Skeepers ?</p>
+    </div>
+
+    
+    <div id="js-form-hubspot-92813320c" data-config="7584d7dc-e9ed-4d80-9d8d-60791b1ed196" data-campaign="" class="js-form-hubspot hs_form">
+        
+    </div>
+    <script id="js-form-hubspot-92813320c" charset="utf-8" type="text/javascript" src="js/v2.js"></script>
+    <script>
+        const formIdElm = "js-form-hubspot-92813320c";
+        const formId = "7584d7dc-e9ed-4d80-9d8d-60791b1ed196";
+        window.hbspt.forms.create({
+            region: 'na1',
+            portalId: '20304540',
+            target: '#' + formIdElm,
+            formId: formId,
+            sfdcCampaignId: ''
+        });
+    </script>
+</div>
+
+    <div class="absolute top-45 -left-78 -z-10 hidden lg:block" style="color:#0073FF;">
+        <svg aria-hidden="true" focusable="false" width="614" height="613" viewBox="0 0 614 613" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M511.542 204.105C568.018 204.105 613.801 158.414 613.801 102.052C613.801 45.6904 568.018 0 511.542 0C455.066 0 409.283 45.6904 409.283 102.052C409.283 158.414 455.066 204.105 511.542 204.105Z" fill="currentColor" fill-opacity="0.8"></path>
+<path d="M102.26 612.558C158.737 612.558 204.52 566.868 204.52 510.506C204.52 454.144 158.737 408.454 102.26 408.454C45.7839 408.454 0.000854492 454.144 0.000854492 510.506C0.000854492 566.868 45.7839 612.558 102.26 612.558Z" fill="currentColor" fill-opacity="0.8"></path>
+<path d="M409.282 0L204.519 0C91.4952 0 0 91.3099 0 204.105C0 316.899 91.4952 408.209 204.519 408.209L204.519 204.105L409.037 204.105V0L409.282 0Z" fill="currentColor" fill-opacity="0.8"></path>
+<path d="M409.282 204.104V408.208H204.519L204.519 612.313H409.037C522.061 612.313 613.556 521.003 613.556 408.208C613.801 295.658 522.061 204.104 409.282 204.104Z" fill="currentColor" fill-opacity="0.8"></path>
+</svg>    </div>
+    </div>
+  </div>
+</div>
+            <div class="py-100" style="background-color:#e8f1ff;">
+		<div class="container">
+				<div class="flex flex-col lg:flex-row">
+						<div class="s12-case-study-slider pt-70 pb-50 px-50 relative order-2 w-full overflow-hidden lg:order-1 lg:w-[60%] lg:rounded-l-[50px]" style="background-color: #DFEDFF">
+								<div data-js-slider-index="8" class="swiper swiper--hide-inactive-items js-case-study-slider js-case-study-slider-8 !-m-40 !overflow-visible !p-40">
+										<ul class="swiper-wrapper mb-35">
+																										<li class="swiper-slide !h-initial">
+																<div class="js_s12_Card group lg:cursor-pointer lg:w-[450px] mx-auto flex flex-col rounded-66 overflow-hidden bg-white px-20 lg:px-25 py-35 lg:py-30 relative h-full" style="box-shadow: 5px 15px 99px 0px rgba(45,117,246,0.35);">
+		<div class="after:rounded-50 h-152 rounded-50 mb-30 md:min-h-250 lg:min-h-205 relative overflow-hidden after:absolute after:left-0 after:top-0 after:h-full after:w-full after:bg-transparent after:transition after:duration-[0.5s] lg:group-hover:after:block lg:group-hover:after:bg-[rgba(47,46,46,0.1)] lg:group-focus:after:block lg:group-focus:after:bg-[rgba(47,46,46,0.1)]">
+								<img loading="lazy" src="images/Case-study-Scrunchie-is-back-%E2%80%93-1.jpg" alt="" class="h-full w-full object-cover transition-transform duration-[0.5s] lg:group-hover:scale-[1.07] lg:group-hover:transform lg:group-focus:scale-[1.07] lg:group-focus:transform">
+		</div>
+
+		<div class="mx-20 flex flex-grow flex-col items-center">
+				<div class="flex flex-col items-center justify-center gap-3 lg:flex-row lg:gap-10">
+						<h3 class="text-16 leading-26 font-primary block font-bold" style="color: #000000;">
+								Scrunchie is back
+								</h3>
+
+								<div class="h-5 w-5 rounded-full bg-[#E9DFFF]"></div>
+
+								<span class="text-16 leading-26 block font-bold md:block" style="color: #000000;">
+										Case study
+								</span>
+				</div>
+
+				<div class="text-grayscale-dark text-14 leading-21 mb-15 md:mt-19 md:mb-27 md:text-16 md:leading-26 mt-10">
+						<p class="p1">The brand wanted to develop the visibility of its products among its target and to increase its community and take advantage of the content generated by the influencers.</p>
+
+				</div>
+
+										<div class="mt-auto">
+								<div class="mt-20 flex justify-start justify-start">
+            <a class="inline-flex items-center white transition relative text-14 leading-25 font-bold 
+            !inline text-main-blue text-16 font-bold
+            text-[#006FF5] hover:text-[#0351C6] group-hover:text-[#0351C6] 
+            focus:text-main-blue" href="https://get.skeepers.io/bc/inf/scrunchie-is-back" target="_self" rel="noopener noreferrer" data-event="" @endif="@endif" data-position="" data-ebook="">
+  
+  Find out more <i class="fa-sm fa-solid fa-angle-right pl-5"></i>
+
+  </a>
+        </div>
+    						</div>
+						</div>
+
+</div>
+														</li>
+																										<li class="swiper-slide !h-initial">
+																<div class="js_s12_Card group lg:cursor-pointer lg:w-[450px] mx-auto flex flex-col rounded-66 overflow-hidden bg-white px-20 lg:px-25 py-35 lg:py-30 relative h-full" style="box-shadow: 5px 15px 99px 0px rgba(45,117,246,0.35);">
+		<div class="after:rounded-50 h-152 rounded-50 mb-30 md:min-h-250 lg:min-h-205 relative overflow-hidden after:absolute after:left-0 after:top-0 after:h-full after:w-full after:bg-transparent after:transition after:duration-[0.5s] lg:group-hover:after:block lg:group-hover:after:bg-[rgba(47,46,46,0.1)] lg:group-focus:after:block lg:group-focus:after:bg-[rgba(47,46,46,0.1)]">
+								<img loading="lazy" src="images/Case-study-Photosi.jpg" alt="" class="h-full w-full object-cover transition-transform duration-[0.5s] lg:group-hover:scale-[1.07] lg:group-hover:transform lg:group-focus:scale-[1.07] lg:group-focus:transform">
+		</div>
+
+		<div class="mx-20 flex flex-grow flex-col items-center">
+				<div class="flex flex-col items-center justify-center gap-3 lg:flex-row lg:gap-10">
+						<h3 class="text-16 leading-26 font-primary block font-bold" style="color: #000000;">
+								PhotoSì
+								</h3>
+
+								<div class="h-5 w-5 rounded-full bg-[#E9DFFF]"></div>
+
+								<span class="text-16 leading-26 block font-bold md:block" style="color: #000000;">
+										Case study
+								</span>
+				</div>
+
+				<div class="text-grayscale-dark text-14 leading-21 mb-15 md:mt-19 md:mb-27 md:text-16 md:leading-26 mt-10">
+						<p class="p1">PhotoSì ensured its presence internationally thanks to micro-influence</p>
+
+				</div>
+
+										<div class="mt-auto">
+								<div class="mt-20 flex justify-start justify-start">
+            <a class="inline-flex items-center white transition relative text-14 leading-25 font-bold 
+            !inline text-main-blue text-16 font-bold
+            text-[#006FF5] hover:text-[#0351C6] group-hover:text-[#0351C6] 
+            focus:text-main-blue" href="https://get.skeepers.io/bc/inf/photosi" target="_self" rel="noopener noreferrer" data-event="" @endif="@endif" data-position="" data-ebook="">
+  
+  Find out more <i class="fa-sm fa-solid fa-angle-right pl-5"></i>
+
+  </a>
+        </div>
+    						</div>
+						</div>
+
+</div>
+														</li>
+																										<li class="swiper-slide !h-initial">
+																<div class="js_s12_Card group lg:cursor-pointer lg:w-[450px] mx-auto flex flex-col rounded-66 overflow-hidden bg-white px-20 lg:px-25 py-35 lg:py-30 relative h-full" style="box-shadow: 5px 15px 99px 0px rgba(45,117,246,0.35);">
+		<div class="after:rounded-50 h-152 rounded-50 mb-30 md:min-h-250 lg:min-h-205 relative overflow-hidden after:absolute after:left-0 after:top-0 after:h-full after:w-full after:bg-transparent after:transition after:duration-[0.5s] lg:group-hover:after:block lg:group-hover:after:bg-[rgba(47,46,46,0.1)] lg:group-focus:after:block lg:group-focus:after:bg-[rgba(47,46,46,0.1)]">
+								<img loading="lazy" src="images/Case-study-Lalalab.jpg" alt="" class="h-full w-full object-cover transition-transform duration-[0.5s] lg:group-hover:scale-[1.07] lg:group-hover:transform lg:group-focus:scale-[1.07] lg:group-focus:transform">
+		</div>
+
+		<div class="mx-20 flex flex-grow flex-col items-center">
+				<div class="flex flex-col items-center justify-center gap-3 lg:flex-row lg:gap-10">
+						<h3 class="text-16 leading-26 font-primary block font-bold" style="color: #000000;">
+								Lalalab
+								</h3>
+
+								<div class="h-5 w-5 rounded-full bg-[#E9DFFF]"></div>
+
+								<span class="text-16 leading-26 block font-bold md:block" style="color: #000000;">
+										Case study
+								</span>
+				</div>
+
+				<div class="text-grayscale-dark text-14 leading-21 mb-15 md:mt-19 md:mb-27 md:text-16 md:leading-26 mt-10">
+						<p class="p1">Leading e-commerce strategy with influencer marketing in order to increase the visibility of its products, it carefully targets the influencers to collaborate with so that they match the brand's identity.</p>
+
+				</div>
+
+										<div class="mt-auto">
+								<div class="mt-20 flex justify-start justify-start">
+            <a class="inline-flex items-center white transition relative text-14 leading-25 font-bold 
+            !inline text-main-blue text-16 font-bold
+            text-[#006FF5] hover:text-[#0351C6] group-hover:text-[#0351C6] 
+            focus:text-main-blue" href="https://get.skeepers.io/bc/inf/lalalab" target="_self" rel="noopener noreferrer" data-event="" @endif="@endif" data-position="" data-ebook="">
+  
+  Find out more <i class="fa-sm fa-solid fa-angle-right pl-5"></i>
+
+  </a>
+        </div>
+    						</div>
+						</div>
+
+</div>
+														</li>
+																						</ul>
+								</div>
+
+								<div class="js-case-study-slider-button-prev-8 left-35 absolute top-1/2 z-[10] hidden -translate-y-1/2 transform cursor-pointer lg:block">
+										<svg aria-hidden="true" focusable="false" style="color:#0073FF" class="w-49 transform rotate-180" width="72" height="72" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+<circle class="circle" cx="36" cy="36" r="36" fill="currentColor"></circle>
+<path d="M25 37.5H46" stroke="white" stroke-width="3" stroke-linecap="round"></path>
+<path class="circle" d="M38.5 47L47.5 37.5L38.5 28" fill="currentColor" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>								</div>
+
+								<div class="js-case-study-slider-button-next-8 right-35 absolute top-1/2 z-[10] hidden -translate-y-1/2 transform cursor-pointer lg:block">
+										<svg aria-hidden="true" focusable="false" style="color:#0073FF" class="w-49 transform" width="72" height="72" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+<circle class="circle" cx="36" cy="36" r="36" fill="currentColor"></circle>
+<path d="M25 37.5H46" stroke="white" stroke-width="3" stroke-linecap="round"></path>
+<path class="circle" d="M38.5 47L47.5 37.5L38.5 28" fill="currentColor" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+</svg>								</div>
+
+								<div class="hidden lg:block">
+										<div class="js-case-study-slider-pagination-8 bottom-35 absolute left-1/2 z-10 -translate-x-1/2 transform">
+
+										</div>
+								</div>
+						</div>
+
+						<div class="relative order-1 flex w-full items-center lg:order-2 lg:w-[40%] lg:rounded-r-[50px]" style="background-color: #0073FF">
+								<div class="py-100 px-70">
+										<h2 class="leading-30 md:leading-35 mb-20 font-bold" style="color: #ffffff">
+												Customer success stories
+												</h2>
+
+												<div class="leading-23 md:leading-26">
+														<p><span style="color: #ffffff;">We work with 8,000+ clients to create strong connections with their communities, build deep and lasting relationships, and achieve and exceed their marketing goals. Here's how customers are leveraging Skeepers Live Shopping. </span></p>
+
+												</div>
+																										<div class="mt-25 w-full">
+																<div class="mt-20 flex justify-start lg:justify-start">
+                            <a class="inline-flex items-center white transition relative px-30 py-18 text-16 leading-25 font-bold rounded-[30px] border bg-main-blackBtn border-main-blackBtn hover:border-main-blackBtnHover text-white hover:text-white hover:bg-main-blackBtnHover group-hover:border-main-blackBtnHover group-hover:bg-main-blackBtnHover justify-center w-auto" href="https://skeepers.io/case-studies/" target="_self" rel="noopener noreferrer" data-event="" data-position="" data-ebook="">
+  
+  Discover all our case studies
+
+  </a>
+                                </div>
+    
+    														</div>
+																				</div>
+
+						</div>
+				</div>
+		</div>
+</div>
+<style>
+		.swiper-pagination-bullet.swiper-pagination-bullet-active {
+				background-color: #0073FF !important;
+		}
+</style>
+            <div class="
+ 			py-50 
+				lg:py-0 lg:my-0
+	" style="background-color: #e8f1ff">
+            <div class="herogeneric-paddingTop-desk" style="padding-top:20px;"></div>
+<div class="herogeneric-paddingTop-mob" style="padding-top:0px;"></div>        <div class="container xl:max-w-[1260px]">
+                    <div class="flex w-full justify-center">
+                <h2 class="block font-semibold mb-30 lg:mb-50 max-w-300 lg:max-w-700 text-center leading-37" style="color:#001f63;">
+                    Influencer Marketing work well with
+                    </h2>
+            </div>
+                <ul class="flex flex-col gap-20 md:flex-row  flex-wrap flex-grid-3">
+                                            <li class="item-card-product w-full ">
+                    <div class="p-20 lg:p-40 rounded-50 relative lg:flex lg:flex-col lg:justify-between h-full" style="border: 1px solid #e8f1ff; background-color: #ffffff; box-shadow: 30px 30px 100px 0px rgba(0, 0, 0, 0);border-radius: 50px;">
+    
+        <div>
+        <div class="mb-12 flex flex-col">
+            <div class="w-100 mb-7 md:mb-20 flex  h-40 lg:h-60  flex-shrink-0 items-start justify-start overflow-hidden w-40 lg:w-60">
+                                    <img loading="lazy" src="images/Verifies_Reviews_Icon.svg" alt="Verified Reviews" class="max-w-40 max-h-40 lg:max-w-60 lg:max-h-60">
+                            </div>
+
+            <h5 class="title-font-inter text-20 leading-30 font-semibold" style="color: #02020a">
+                Verified Reviews
+            </h5>
+        </div>
+
+        <p class="text-14 leading-22" style="color: #313235">
+            Collect and publish photo, text, and video reviews from verified customers. With AI-driven features like review summary, syndication, review balancing, enhance credibility and extend your reach. Seamless integration allows reviews to be shared across e-commerce, retail, and other channels, ensuring visibility and impact
+        </p>
+    </div>
+            <div class="mt-24 md:mt-10">
+            <div class="mt-20 flex justify-center lg:justify-start">
+                                        <a class="inline-flex items-center white transition relative px-30 py-10 text-16 leading-25 font-bold rounded-[30px] border bg-main-blue border-main-blue hover:border-main-blueHover text-white hover:text-white hover:bg-main-blueHover group-hover:border-main-blueHover group-hover:bg-main-blueHover  justify-center w-auto" href="https://skeepers.io/verified-reviews/" target="_self" rel="noopener noreferrer" data-event="" data-position="" data-ebook="">
+  
+  Discover product
+
+  </a>
+
+                    </div>
+    
+            </div>
+    </div>
+                </li>
+                                            <li class="item-card-product w-full ">
+                    <div class="p-20 lg:p-40 rounded-50 relative lg:flex lg:flex-col lg:justify-between h-full" style="border: 1px solid #e8f1ff; background-color: #001f63; box-shadow: 30px 30px 100px 0px rgba(0, 0, 0, 0);border-radius: 50px;">
+                        <div class="w-135 h-45 absolute top-40 lg:top-50 -right-[9px]">
+                <img src="images/Extension.svg" alt="">
+            </div>
+            
+        <div>
+        <div class="mb-12 flex flex-col">
+            <div class="w-100 mb-7 md:mb-20 flex  h-40 lg:h-60  flex-shrink-0 items-start justify-start overflow-hidden w-40 lg:w-60">
+                            </div>
+
+            <h5 class="title-font-inter text-20 leading-30 font-semibold" style="color: #ffffff">
+                Consumer Videos
+            </h5>
+        </div>
+
+        <p class="text-14 leading-22" style="color: #f2f2f2">
+            Get your brand ambassadors involved in the creation of quality and inspiring videos on a large scale
+        </p>
+    </div>
+            <div class="mt-24 md:mt-10">
+            <div class="mt-20 flex justify-center lg:justify-start">
+                                        <a class="inline-flex items-center white transition relative px-30 py-10 text-16 leading-25 font-bold rounded-[30px] border bg-main-blue border-main-blue hover:border-main-blueHover text-white hover:text-white hover:bg-main-blueHover group-hover:border-main-blueHover group-hover:bg-main-blueHover  justify-center w-auto" href="https://skeepers.io/consumer-video/" target="_self" rel="noopener noreferrer" data-event="" data-position="" data-ebook="">
+  
+  Discover extension
+
+  </a>
+
+                    </div>
+    
+            </div>
+    </div>
+                </li>
+                                            <li class="item-card-product w-full ">
+                    <div class="p-20 lg:p-40 rounded-50 relative lg:flex lg:flex-col lg:justify-between h-full" style="border: 1px solid #e8f1ff; background-color: #001f63; box-shadow: 30px 30px 100px 0px rgba(0, 0, 0, 0);border-radius: 50px;">
+                        <div class="w-135 h-45 absolute top-40 lg:top-50 -right-[9px]">
+                <img src="images/Extension.svg" alt="">
+            </div>
+            
+        <div>
+        <div class="mb-12 flex flex-col">
+            <div class="w-100 mb-7 md:mb-20 flex  h-40 lg:h-60  flex-shrink-0 items-start justify-start overflow-hidden w-40 lg:w-60">
+                            </div>
+
+            <h5 class="title-font-inter text-20 leading-30 font-semibold" style="color: #ffffff">
+                Live Shopping
+            </h5>
+        </div>
+
+        <p class="text-14 leading-22" style="color: #f2f2f2">
+            Create, stream and manage live shopping events with experts and super brand lovers, to bring you closer to your community.
+        </p>
+    </div>
+            <div class="mt-24 md:mt-10">
+            <div class="mt-20 flex justify-center lg:justify-start">
+                                        <a class="inline-flex items-center white transition relative px-30 py-10 text-16 leading-25 font-bold rounded-[30px] border bg-main-blue border-main-blue hover:border-main-blueHover text-white hover:text-white hover:bg-main-blueHover group-hover:border-main-blueHover group-hover:bg-main-blueHover  justify-center w-auto" href="https://skeepers.io/live-shopping/" target="_self" rel="noopener noreferrer" data-event="" data-position="" data-ebook="">
+  
+  Discover extension
+
+  </a>
+
+                    </div>
+    
+            </div>
+    </div>
+                </li>
+                    </ul>
+    </div>
+            <div class="herogeneric-paddingBottom-desk" style="padding-bottom:100px;"></div>
+<div class="herogeneric-paddingBottom-mob" style="padding-bottom:0px;"></div>    </div>
+            <div class="md:pt-100 md:pb-100 py-60" style="background-color:#f2f7ff">
+		<div class="container">
+										<div class="mb-30 flex w-full flex-col items-center space-y-10 lg:mb-60">
+																		<h2 class="leading-50 font-semi text-40 max-w-300 lg:max-w-700 block md:text-center" style="color: #001f63">
+												Want to find out more?
+												</h2>
+																						</div>
+				
+				<div data-js-slider-index="10" class="swiper js_article_large_slider js_article_large_slider-10 !-m-40 !p-40 lg:hidden">
+						<ul class="swiper-wrapper lg:flex lg:justify-center">
+																		<li class="swiper-slide !h-initial lg:w-[30%]">
+												<div class="group flex flex-col relative rounded-40 overflow-hidden relative border-1 h-full border-[#DFEDFF] bg-white shadow-[11px_13px_69px_0px_rgba(90,149,255,0.07)]" filter="Boost your brand awareness">
+  <div class="
+    lg:group-hover:after:block lg:group-hover:after:bg-[rgba(47,46,46,0.1)] group-focus:after:block lg:group-focus:after:bg-[rgba(47,46,46,0.1)]
+    after:absolute after:top-0 after:left-0 after:h-full after:w-full after:bg-transparent after:transition after:duration-[0.5s]
+    h-152 overflow-hidden relative 
+    md:h-198
+  ">
+    <img loading="lazy" src="images/Compression-Template-4.jpg" alt="Top 5 Ways to Boost Your Visibility with Influencers" class="
+      lg:group-hover:transform lg:group-hover:scale-[1.07] lg:group-focus:transform lg:group-focus:scale-[1.07]
+      lg:transition-transform lg:duration-[0.5s] w-full h-full object-cover
+    ">
+  </div>
+
+  <div class="
+    flex flex-col flex-grow px-19 pt-26 pb-28
+    md:px-35 md:pt-32 md:pb-40
+  ">
+                        <span class="inline-block text-main-purple text-14 leading-20 font-medium mb-10 lett">
+                          Boost your brand awareness
+                      </span>
+              
+    <div class="block text-main-blackBtn font-bold text-16 leading-26">
+      Top 5 Ways to Boost Your Visibility with Influencers
+    </div>
+
+    <div class="text-main-blackMenu text-14 leading-23 mt-12 mb-30 font-light">
+      Are you a young brand looking to make yourself known? To reach a younger audience, boost your new online store's visibility, or simply raise your brand awareness? In 2022, 90% of marketers stated that influencer marketing was an excellent way to boost visibility (source: Influencer Marketing Hub). Here are our five tips to help you...
+    </div>
+
+    <div class="mt-auto">
+      <a class="inline-flex items-center white transition relative px-30 py-10 text-16 leading-25 font-bold rounded-[30px] bg-main-blue lg:group-hover:bg-main-blueHover text-white" tabindex="-1" aria-hidden="true" href="https://skeepers.io/blog/boost-visibility-influencers/">
+  
+  Read more
+
+  </a>
+
+    </div>
+  </div>
+
+  <a href="https://skeepers.io/blog/boost-visibility-influencers/" target="_self" class="block
+    absolute z-20 top-0 left-0 w-full h-full rounded-24
+  ">
+    <span class="sr-only">Read more</span>
+  </a>
+</div>
+										</li>
+																		<li class="swiper-slide !h-initial lg:w-[30%]">
+												<div class="group flex flex-col relative rounded-40 overflow-hidden relative border-1 h-full border-[#DFEDFF] bg-white shadow-[11px_13px_69px_0px_rgba(90,149,255,0.07)]" filter="Boost your brand awareness">
+  <div class="
+    lg:group-hover:after:block lg:group-hover:after:bg-[rgba(47,46,46,0.1)] group-focus:after:block lg:group-focus:after:bg-[rgba(47,46,46,0.1)]
+    after:absolute after:top-0 after:left-0 after:h-full after:w-full after:bg-transparent after:transition after:duration-[0.5s]
+    h-152 overflow-hidden relative 
+    md:h-198
+  ">
+    <img loading="lazy" src="images/Capture-decran-2023-11-03-a-15.15.22.png" alt="How Can Fashion Brands Use Influencer Marketing?" class="
+      lg:group-hover:transform lg:group-hover:scale-[1.07] lg:group-focus:transform lg:group-focus:scale-[1.07]
+      lg:transition-transform lg:duration-[0.5s] w-full h-full object-cover
+    ">
+  </div>
+
+  <div class="
+    flex flex-col flex-grow px-19 pt-26 pb-28
+    md:px-35 md:pt-32 md:pb-40
+  ">
+                        <span class="inline-block text-main-purple text-14 leading-20 font-medium mb-10 lett">
+                          Boost your brand awareness
+                      </span>
+              
+    <div class="block text-main-blackBtn font-bold text-16 leading-26">
+      How Can Fashion Brands Use Influencer Marketing?
+    </div>
+
+    <div class="text-main-blackMenu text-14 leading-23 mt-12 mb-30 font-light">
+      Influencer campaigns have become a must for most fashion and beauty brands. But where do you begin when you're new to the world of influencers and social media? Here are our tips to put into practice before and during your collaborations, whether you're new to the market or looking to reinvent your brand and attract...
+    </div>
+
+    <div class="mt-auto">
+      <a class="inline-flex items-center white transition relative px-30 py-10 text-16 leading-25 font-bold rounded-[30px] bg-main-blue lg:group-hover:bg-main-blueHover text-white" tabindex="-1" aria-hidden="true" href="https://skeepers.io/blog/fashion-brands-influencer-marketing/">
+  
+  Read more
+
+  </a>
+
+    </div>
+  </div>
+
+  <a href="https://skeepers.io/blog/fashion-brands-influencer-marketing/" target="_self" class="block
+    absolute z-20 top-0 left-0 w-full h-full rounded-24
+  ">
+    <span class="sr-only">Read more</span>
+  </a>
+</div>
+										</li>
+																		<li class="swiper-slide !h-initial lg:w-[30%]">
+												<div class="group flex flex-col relative rounded-40 overflow-hidden relative border-1 h-full border-[#DFEDFF] bg-white shadow-[11px_13px_69px_0px_rgba(90,149,255,0.07)]" filter="Boost your brand awareness">
+  <div class="
+    lg:group-hover:after:block lg:group-hover:after:bg-[rgba(47,46,46,0.1)] group-focus:after:block lg:group-focus:after:bg-[rgba(47,46,46,0.1)]
+    after:absolute after:top-0 after:left-0 after:h-full after:w-full after:bg-transparent after:transition after:duration-[0.5s]
+    h-152 overflow-hidden relative 
+    md:h-198
+  ">
+    <img loading="lazy" src="images/Influencer-marketing-UGC.jpg" alt="UGC and Influencer Marketing: How Will They Complete in 2022?" class="
+      lg:group-hover:transform lg:group-hover:scale-[1.07] lg:group-focus:transform lg:group-focus:scale-[1.07]
+      lg:transition-transform lg:duration-[0.5s] w-full h-full object-cover
+    ">
+  </div>
+
+  <div class="
+    flex flex-col flex-grow px-19 pt-26 pb-28
+    md:px-35 md:pt-32 md:pb-40
+  ">
+                        <span class="inline-block text-main-purple text-14 leading-20 font-medium mb-10 lett">
+                          Boost your brand awareness
+                      </span>
+              
+    <div class="block text-main-blackBtn font-bold text-16 leading-26">
+      UGC and Influencer Marketing: How Will They Complete in 2022?
+    </div>
+
+    <div class="text-main-blackMenu text-14 leading-23 mt-12 mb-30 font-light">
+      UGC (User-Generated Content) and influencer marketing are the new fields of expression for brands today. But should brands start creating all kinds of UGC in 2022? And how can UGC complement influencer marketing? 92% of marketers believe that the majority of brand content they create is perceived as authentic by their audience… Yet, 51% of...
+    </div>
+
+    <div class="mt-auto">
+      <a class="inline-flex items-center white transition relative px-30 py-10 text-16 leading-25 font-bold rounded-[30px] bg-main-blue lg:group-hover:bg-main-blueHover text-white" tabindex="-1" aria-hidden="true" href="https://skeepers.io/blog/ugc-and-influencer-marketing-how-will-they-complement-each-other-in-2022/">
+  
+  Read more
+
+  </a>
+
+    </div>
+  </div>
+
+  <a href="https://skeepers.io/blog/ugc-and-influencer-marketing-how-will-they-complement-each-other-in-2022/" target="_self" class="block
+    absolute z-20 top-0 left-0 w-full h-full rounded-24
+  ">
+    <span class="sr-only">Read more</span>
+  </a>
+</div>
+										</li>
+														</ul>
+				</div>
+				<div class="hidden lg:block">
+						<ul class=" flex flex-wrap">
+																		<li class="!h-initial mx-11 my-6 lg:w-[30%]">
+												<div class="group flex flex-col relative rounded-40 overflow-hidden relative border-1 h-full border-[#DFEDFF] bg-white shadow-[11px_13px_69px_0px_rgba(90,149,255,0.07)]" filter="Boost your brand awareness">
+  <div class="
+    lg:group-hover:after:block lg:group-hover:after:bg-[rgba(47,46,46,0.1)] group-focus:after:block lg:group-focus:after:bg-[rgba(47,46,46,0.1)]
+    after:absolute after:top-0 after:left-0 after:h-full after:w-full after:bg-transparent after:transition after:duration-[0.5s]
+    h-152 overflow-hidden relative 
+    md:h-198
+  ">
+    <img loading="lazy" src="images/Compression-Template-4.jpg" alt="Top 5 Ways to Boost Your Visibility with Influencers" class="
+      lg:group-hover:transform lg:group-hover:scale-[1.07] lg:group-focus:transform lg:group-focus:scale-[1.07]
+      lg:transition-transform lg:duration-[0.5s] w-full h-full object-cover
+    ">
+  </div>
+
+  <div class="
+    flex flex-col flex-grow px-19 pt-26 pb-28
+    md:px-35 md:pt-32 md:pb-40
+  ">
+                        <span class="inline-block text-main-purple text-14 leading-20 font-medium mb-10 lett">
+                          Boost your brand awareness
+                      </span>
+              
+    <div class="block text-main-blackBtn font-bold text-16 leading-26">
+      Top 5 Ways to Boost Your Visibility with Influencers
+    </div>
+
+    <div class="text-main-blackMenu text-14 leading-23 mt-12 mb-30 font-light">
+      Are you a young brand looking to make yourself known? To reach a younger audience, boost your new online store's visibility, or simply raise your brand awareness? In 2022, 90% of marketers stated that influencer marketing was an excellent way to boost visibility (source: Influencer Marketing Hub). Here are our five tips to help you...
+    </div>
+
+    <div class="mt-auto">
+      <a class="inline-flex items-center white transition relative px-30 py-10 text-16 leading-25 font-bold rounded-[30px] bg-main-blue lg:group-hover:bg-main-blueHover text-white" tabindex="-1" aria-hidden="true" href="https://skeepers.io/blog/boost-visibility-influencers/">
+  
+  Read more
+
+  </a>
+
+    </div>
+  </div>
+
+  <a href="https://skeepers.io/blog/boost-visibility-influencers/" target="_self" class="block
+    absolute z-20 top-0 left-0 w-full h-full rounded-24
+  ">
+    <span class="sr-only">Read more</span>
+  </a>
+</div>
+										</li>
+																		<li class="!h-initial mx-11 my-6 lg:w-[30%]">
+												<div class="group flex flex-col relative rounded-40 overflow-hidden relative border-1 h-full border-[#DFEDFF] bg-white shadow-[11px_13px_69px_0px_rgba(90,149,255,0.07)]" filter="Boost your brand awareness">
+  <div class="
+    lg:group-hover:after:block lg:group-hover:after:bg-[rgba(47,46,46,0.1)] group-focus:after:block lg:group-focus:after:bg-[rgba(47,46,46,0.1)]
+    after:absolute after:top-0 after:left-0 after:h-full after:w-full after:bg-transparent after:transition after:duration-[0.5s]
+    h-152 overflow-hidden relative 
+    md:h-198
+  ">
+    <img loading="lazy" src="images/Capture-decran-2023-11-03-a-15.15.22.png" alt="How Can Fashion Brands Use Influencer Marketing?" class="
+      lg:group-hover:transform lg:group-hover:scale-[1.07] lg:group-focus:transform lg:group-focus:scale-[1.07]
+      lg:transition-transform lg:duration-[0.5s] w-full h-full object-cover
+    ">
+  </div>
+
+  <div class="
+    flex flex-col flex-grow px-19 pt-26 pb-28
+    md:px-35 md:pt-32 md:pb-40
+  ">
+                        <span class="inline-block text-main-purple text-14 leading-20 font-medium mb-10 lett">
+                          Boost your brand awareness
+                      </span>
+              
+    <div class="block text-main-blackBtn font-bold text-16 leading-26">
+      How Can Fashion Brands Use Influencer Marketing?
+    </div>
+
+    <div class="text-main-blackMenu text-14 leading-23 mt-12 mb-30 font-light">
+      Influencer campaigns have become a must for most fashion and beauty brands. But where do you begin when you're new to the world of influencers and social media? Here are our tips to put into practice before and during your collaborations, whether you're new to the market or looking to reinvent your brand and attract...
+    </div>
+
+    <div class="mt-auto">
+      <a class="inline-flex items-center white transition relative px-30 py-10 text-16 leading-25 font-bold rounded-[30px] bg-main-blue lg:group-hover:bg-main-blueHover text-white" tabindex="-1" aria-hidden="true" href="https://skeepers.io/blog/fashion-brands-influencer-marketing/">
+  
+  Read more
+
+  </a>
+
+    </div>
+  </div>
+
+  <a href="https://skeepers.io/blog/fashion-brands-influencer-marketing/" target="_self" class="block
+    absolute z-20 top-0 left-0 w-full h-full rounded-24
+  ">
+    <span class="sr-only">Read more</span>
+  </a>
+</div>
+										</li>
+																		<li class="!h-initial mx-11 my-6 lg:w-[30%]">
+												<div class="group flex flex-col relative rounded-40 overflow-hidden relative border-1 h-full border-[#DFEDFF] bg-white shadow-[11px_13px_69px_0px_rgba(90,149,255,0.07)]" filter="Boost your brand awareness">
+  <div class="
+    lg:group-hover:after:block lg:group-hover:after:bg-[rgba(47,46,46,0.1)] group-focus:after:block lg:group-focus:after:bg-[rgba(47,46,46,0.1)]
+    after:absolute after:top-0 after:left-0 after:h-full after:w-full after:bg-transparent after:transition after:duration-[0.5s]
+    h-152 overflow-hidden relative 
+    md:h-198
+  ">
+    <img loading="lazy" src="images/Influencer-marketing-UGC.jpg" alt="UGC and Influencer Marketing: How Will They Complete in 2022?" class="
+      lg:group-hover:transform lg:group-hover:scale-[1.07] lg:group-focus:transform lg:group-focus:scale-[1.07]
+      lg:transition-transform lg:duration-[0.5s] w-full h-full object-cover
+    ">
+  </div>
+
+  <div class="
+    flex flex-col flex-grow px-19 pt-26 pb-28
+    md:px-35 md:pt-32 md:pb-40
+  ">
+                        <span class="inline-block text-main-purple text-14 leading-20 font-medium mb-10 lett">
+                          Boost your brand awareness
+                      </span>
+              
+    <div class="block text-main-blackBtn font-bold text-16 leading-26">
+      UGC and Influencer Marketing: How Will They Complete in 2022?
+    </div>
+
+    <div class="text-main-blackMenu text-14 leading-23 mt-12 mb-30 font-light">
+      UGC (User-Generated Content) and influencer marketing are the new fields of expression for brands today. But should brands start creating all kinds of UGC in 2022? And how can UGC complement influencer marketing? 92% of marketers believe that the majority of brand content they create is perceived as authentic by their audience… Yet, 51% of...
+    </div>
+
+    <div class="mt-auto">
+      <a class="inline-flex items-center white transition relative px-30 py-10 text-16 leading-25 font-bold rounded-[30px] bg-main-blue lg:group-hover:bg-main-blueHover text-white" tabindex="-1" aria-hidden="true" href="https://skeepers.io/blog/ugc-and-influencer-marketing-how-will-they-complement-each-other-in-2022/">
+  
+  Read more
+
+  </a>
+
+    </div>
+  </div>
+
+  <a href="https://skeepers.io/blog/ugc-and-influencer-marketing-how-will-they-complement-each-other-in-2022/" target="_self" class="block
+    absolute z-20 top-0 left-0 w-full h-full rounded-24
+  ">
+    <span class="sr-only">Read more</span>
+  </a>
+</div>
+										</li>
+														</ul>
+				</div>
+		</div>
+</div>
+        </main>
+
+
+    <footer class="w-full bg-white pt-35  js-footer border border-[#EFEFEF] border-t-1">
+  <div class="container flex  flex-col ">
+    <div class="flex flex-col  justify-between items-center lg:flex-row  ">
+      <div class="flex flex-col lg:flex-row items-center ">
+        <div class="logo w-89 lg:w-154 mx-auto
+      lg:w-176 mb-26 lg:mb-0 
+  ">
+    <img loading="lazy" class="w-full object-cover hidden lg:block" src="images/new-logo.1f3128.svg" alt="Logo Skeepers Blanc">
+    <img loading="lazy" class="w-full object-cover  block lg:hidden" src="images/new-logo-vertical.364fac.svg" alt="Logo Skeepers Blanc">
+</div>        <div class="hidden lg:block">
+          <div class=" mx-auto  w-fit  w-full  lg:ml-55         
+      ">
+            <div class="
+      social flex flex-row justify-center
+     
+    ">
+                  <a class="mr-12  flex justify-center items-center rounded-full hover:bg-main-blueHover bg-main-blue last:mr-0 w-28 h-28" target="_blank" href="https://twitter.com/Skeepersgroup" data-trk-social="twitter">
+            <img loading="lazy" class="object-cover w-12 h-12" src="images/logo-x-twitter.svg" alt="">
+          </a>
+                  <a class="mr-12  flex justify-center items-center rounded-full hover:bg-main-blueHover bg-main-blue last:mr-0 w-28 h-28" target="_blank" href="https://www.linkedin.com/company/skeepers/" data-trk-social="linkedin">
+            <img loading="lazy" class="object-cover w-12 h-12" src="images/50x50-IN-linkedin.svg" alt="">
+          </a>
+                  <a class="mr-12  flex justify-center items-center rounded-full hover:bg-main-blueHover bg-main-blue last:mr-0 w-28 h-28" href="https://www.youtube.com/channel/UCwWEg2DJhGkHoCGjHXQgVUw" data-trk-social="youtube">
+            <img loading="lazy" class="object-cover w-12 h-12" src="images/icon-youtube-4-60x60.png" alt="icon-youtube">
+          </a>
+              </div>
+    </div>        </div>
+      </div>
+      <div class="datalayer-newsletter-footer 
+    newsletter-form flex flex-col  w-fit lg:flex-row   items-center   px-16 lg:px-0 
+    ">
+    <p class="text-[#313235] text-16 leading-21   text-center   mb-20  font-primary font-medium
+      lg:mb-0 lg:mr-20  
+    ">Subscribe to our newsletter:</p>
+
+            <div id="js-form-hbspt-newsletter-footer" data-region="na1" data-portal-id="20304540" data-form-id="ee1d93ef-4da6-4023-911e-3f3052c380ec" class="hs_form">
+            
+        </div>
+    
+        </div>
+    </div>
+    <hr class="text-[#EFEFEF] h-1 my-24 lg:mb-65 lg:mt-35">
+    <div class="flex flex-col lg:flex-row justify-between pb-0 lg:pb-80 ">
+      <div class="
+      flex flex-wrap  w-full 
+      lg:mt-0  lg:flex-nowrap flex-row justify-between  lg:items-start
+      ">
+                        <ul class="mb-30 lg:mb-0 py-0 lg:py-30 lg:pt-0  lg:mr-30 last:mr-0 w-170  ">
+            <li class="w-fit text-[#AFB2B8] text-14 leading-22 font-bold font-primary mb-17">Company</li>
+                          <li class="text-14 text-[#02020A] font-primary font-normal cursor-pointer w-fit leading-22 mb-14">
+                <a href="https://skeepers.io/group/">The Group</a>
+              </li>
+                          <li class="text-14 text-[#02020A] font-primary font-normal cursor-pointer w-fit leading-22 mb-14">
+                <a href="https://skeepers.io/global-contact/">Contact</a>
+              </li>
+                          <li class="text-14 text-[#02020A] font-primary font-normal cursor-pointer w-fit leading-22 ">
+                <a href="https://apply.workable.com/skeepers/">Careers</a>
+              </li>
+                      </ul>
+                  <ul class="mb-30 lg:mb-0 py-0 lg:py-30 lg:pt-0  lg:mr-30 last:mr-0 w-170  ">
+            <li class="w-fit text-[#AFB2B8] text-14 leading-22 font-bold font-primary mb-17">Our Products & Extensions</li>
+                          <li class="text-14 text-[#02020A] font-primary font-normal cursor-pointer w-fit leading-22 mb-14">
+                <a href="https://skeepers.io/verified-reviews/">Verified Reviews</a>
+              </li>
+                          <li class="text-14 text-[#02020A] font-primary font-normal cursor-pointer w-fit leading-22 mb-14">
+                <a href="https://skeepers.io/influencer-marketing/">Influencer Marketing</a>
+              </li>
+                          <li class="text-14 text-[#02020A] font-primary font-normal cursor-pointer w-fit leading-22 mb-14">
+                <a href="https://skeepers.io/feedback-management/">Feedback Management</a>
+              </li>
+                          <li class="text-14 text-[#02020A] font-primary font-normal cursor-pointer w-fit leading-22 mb-14">
+                <a href="https://skeepers.io/brand-communities/">Brand Communities</a>
+              </li>
+                          <li class="text-14 text-[#02020A] font-primary font-normal cursor-pointer w-fit leading-22 mb-14">
+                <a href="https://skeepers.io/consumer-video/">Consumer Videos</a>
+              </li>
+                          <li class="text-14 text-[#02020A] font-primary font-normal cursor-pointer w-fit leading-22 mb-14">
+                <a href="https://skeepers.io/gifted-reviews/">Gifted Reviews</a>
+              </li>
+                          <li class="text-14 text-[#02020A] font-primary font-normal cursor-pointer w-fit leading-22 mb-14">
+                <a href="https://skeepers.io/syndication/">Syndication</a>
+              </li>
+                          <li class="text-14 text-[#02020A] font-primary font-normal cursor-pointer w-fit leading-22 mb-14">
+                <a href="https://skeepers.io/live-shopping/">Live Shopping</a>
+              </li>
+                          <li class="text-14 text-[#02020A] font-primary font-normal cursor-pointer w-fit leading-22 ">
+                <a href="https://skeepers.io/shoppable-content/">Shoppable content</a>
+              </li>
+                      </ul>
+                  <ul class="mb-30 lg:mb-0 py-0 lg:py-30 lg:pt-0  lg:mr-30 last:mr-0 w-170  ">
+            <li class="w-fit text-[#AFB2B8] text-14 leading-22 font-bold font-primary mb-17">Solutions</li>
+                          <li class="text-14 text-[#02020A] font-primary font-normal cursor-pointer w-fit leading-22 mb-14">
+                <a href="https://skeepers.io/solution-collect-authentic-reviews/">Collect authentic reviews</a>
+              </li>
+                          <li class="text-14 text-[#02020A] font-primary font-normal cursor-pointer w-fit leading-22 mb-14">
+                <a href="https://skeepers.io/solution-generate-content/">Generate Content</a>
+              </li>
+                          <li class="text-14 text-[#02020A] font-primary font-normal cursor-pointer w-fit leading-22 mb-14">
+                <a href="https://skeepers.io/solution-identify-your-best-creators/">Identify your best creators</a>
+              </li>
+                          <li class="text-14 text-[#02020A] font-primary font-normal cursor-pointer w-fit leading-22 mb-14">
+                <a href="https://skeepers.io/solution-launch-products/">Launch Products</a>
+              </li>
+                          <li class="text-14 text-[#02020A] font-primary font-normal cursor-pointer w-fit leading-22 mb-14">
+                <a href="https://skeepers.io/solution-increase-social-footprint/">Increase social footprint</a>
+              </li>
+                          <li class="text-14 text-[#02020A] font-primary font-normal cursor-pointer w-fit leading-22 mb-14">
+                <a href="https://skeepers.io/solution-manage-your-e-reputation/">Manage your e-Reputation</a>
+              </li>
+                          <li class="text-14 text-[#02020A] font-primary font-normal cursor-pointer w-fit leading-22 mb-14">
+                <a href="https://skeepers.io/solution-enhance-product-page-effectiveness/">Enhance Product Page Effectiveness</a>
+              </li>
+                          <li class="text-14 text-[#02020A] font-primary font-normal cursor-pointer w-fit leading-22 mb-14">
+                <a href="https://skeepers.io/solution-drive-online-offline-traffic/">Drive online & offline traffic</a>
+              </li>
+                          <li class="text-14 text-[#02020A] font-primary font-normal cursor-pointer w-fit leading-22 mb-14">
+                <a href="https://skeepers.io/solution-syndicate-your-content/">Syndicate your content</a>
+              </li>
+                          <li class="text-14 text-[#02020A] font-primary font-normal cursor-pointer w-fit leading-22 mb-14">
+                <a href="https://skeepers.io/solution-build-engage-communities/">Build & engage communities</a>
+              </li>
+                          <li class="text-14 text-[#02020A] font-primary font-normal cursor-pointer w-fit leading-22 mb-14">
+                <a href="https://skeepers.io/solution-capture-voice-customer/">Capture voice of the customer</a>
+              </li>
+                          <li class="text-14 text-[#02020A] font-primary font-normal cursor-pointer w-fit leading-22 ">
+                <a href="https://skeepers.io/data-and-insights/">Data and Insights</a>
+              </li>
+                      </ul>
+                  <ul class="mb-30 lg:mb-0 py-0 lg:py-30 lg:pt-0  lg:mr-30 last:mr-0 w-170  ">
+            <li class="w-fit text-[#AFB2B8] text-14 leading-22 font-bold font-primary mb-17">Our Customers</li>
+                          <li class="text-14 text-[#02020A] font-primary font-normal cursor-pointer w-fit leading-22 mb-14">
+                <a href="https://skeepers.io/blog/">Blog</a>
+              </li>
+                          <li class="text-14 text-[#02020A] font-primary font-normal cursor-pointer w-fit leading-22 mb-14">
+                <a href="https://skeepers.io/case-studies/">Case Studies</a>
+              </li>
+                          <li class="text-14 text-[#02020A] font-primary font-normal cursor-pointer w-fit leading-22 mb-14">
+                <a href="https://skeepers.io/ebook/">Ebooks</a>
+              </li>
+                          <li class="text-14 text-[#02020A] font-primary font-normal cursor-pointer w-fit leading-22 mb-14">
+                <a href="https://skeepers.io/webinars/">Webinar</a>
+              </li>
+                          <li class="text-14 text-[#02020A] font-primary font-normal cursor-pointer w-fit leading-22 ">
+                <a href="https://skeepers.io/events/">Events</a>
+              </li>
+                      </ul>
+                  <ul class="mb-30 lg:mb-0 py-0 lg:py-30 lg:pt-0  lg:mr-30 last:mr-0 w-170  ">
+            <li class="w-fit text-[#AFB2B8] text-14 leading-22 font-bold font-primary mb-17">Your Challenges</li>
+                          <li class="text-14 text-[#02020A] font-primary font-normal cursor-pointer w-fit leading-22 mb-14">
+                <a href="https://skeepers.io/brand-awareness/">Brand Awareness</a>
+              </li>
+                          <li class="text-14 text-[#02020A] font-primary font-normal cursor-pointer w-fit leading-22 mb-14">
+                <a href="https://skeepers.io/improve-e-reputation/">E-reputation</a>
+              </li>
+                          <li class="text-14 text-[#02020A] font-primary font-normal cursor-pointer w-fit leading-22 mb-14">
+                <a href="https://skeepers.io/build-relationship-of-trust/">Brand Advocacy</a>
+              </li>
+                          <li class="text-14 text-[#02020A] font-primary font-normal cursor-pointer w-fit leading-22 mb-14">
+                <a href="https://skeepers.io/boost-website-conversions/">Boost Your Conversion</a>
+              </li>
+                          <li class="text-14 text-[#02020A] font-primary font-normal cursor-pointer w-fit leading-22 mb-14">
+                <a href="https://skeepers.io/redesign-customer-journey/">Redesigning Customer Journeys</a>
+              </li>
+                          <li class="text-14 text-[#02020A] font-primary font-normal cursor-pointer w-fit leading-22 ">
+                <a href="https://skeepers.io/reducing-customer-costs/">Reduce Your Costs</a>
+              </li>
+                      </ul>
+              </div>    </div>
+    <div class="block lg:hidden">
+      <div class=" mx-auto  w-fit  w-full  lg:ml-55         
+      ">
+            <div class="
+      social flex flex-row justify-center
+     
+    ">
+                  <a class="mr-12  flex justify-center items-center rounded-full hover:bg-main-blueHover bg-main-blue last:mr-0 w-28 h-28" target="_blank" href="https://twitter.com/Skeepersgroup" data-trk-social="twitter">
+            <img loading="lazy" class="object-cover w-12 h-12" src="images/logo-x-twitter.svg" alt="">
+          </a>
+                  <a class="mr-12  flex justify-center items-center rounded-full hover:bg-main-blueHover bg-main-blue last:mr-0 w-28 h-28" target="_blank" href="https://www.linkedin.com/company/skeepers/" data-trk-social="linkedin">
+            <img loading="lazy" class="object-cover w-12 h-12" src="images/50x50-IN-linkedin.svg" alt="">
+          </a>
+                  <a class="mr-12  flex justify-center items-center rounded-full hover:bg-main-blueHover bg-main-blue last:mr-0 w-28 h-28" href="https://www.youtube.com/channel/UCwWEg2DJhGkHoCGjHXQgVUw" data-trk-social="youtube">
+            <img loading="lazy" class="object-cover w-12 h-12" src="images/icon-youtube-4-60x60.png" alt="icon-youtube">
+          </a>
+              </div>
+    </div>    </div>
+  </div>
+  <div class="w-full pt-30 pb-40  bg-[#F2F7FF]  border border-[#E1E1E1] border-t-1 mt-38 lg:mt-0">
+    <div class="flex flex-col lg:flex-row justify-between container">
+        <p class="text-[#6F747E] text-center font-primary leading-20 font-normal text-12 order-2 lg:order-1 mt-20 lg:mt-0">© 2025. All rights reserved.</p>
+                <ul class="flex flex-row items-center justify-between lg:justify-end order-1: lg:order-2">
+                        <li class="lg:mr-33 last:mr-0">
+                <a class="underline text-[#6F747E] text-center font-primary leading-20 font-normal text-12" href="https://skeepers.io/legal-notices/">Legal notices</a>  
+            </li>
+                        <li class="lg:mr-33 last:mr-0">
+                <a class="underline text-[#6F747E] text-center font-primary leading-20 font-normal text-12" href="https://skeepers.io/terms-and-conditions-of-services-skeepers-group/">Terms & conditions</a>  
+            </li>
+                        <li class="lg:mr-33 last:mr-0">
+                <a class="underline text-[#6F747E] text-center font-primary leading-20 font-normal text-12" href="https://skeepers.io/privacy-cookie-policy/">Privacy Policy</a>  
+            </li>
+                        <li class="lg:mr-33 last:mr-0">
+                <a class="underline text-[#6F747E] text-center font-primary leading-20 font-normal text-12" href="https://vdp.skeepers.io/">Vulnerability Disclosure Policy</a>  
+            </li>
+                    </ul>
+            </div>
+</div></footer>
+  </div>
+
+    <script id="geot-js-js-extra">
+var geot = {"ajax_url":"https:\/\/skeepers.io\/wp-admin\/admin-ajax.php?lang=en","ajax":"","pid":"133878","is_archive":"","is_search":"","is_singular":"1","is_front_page":"","is_category":"","is_page":"1","is_single":"","disable_remove_on_singular":"","is_builder":"","has_geo_posts":"","dropdown_search":"","dropdown_redirect":"","elementor_popup":"1","hide_class":"","hide_override_class":"","remove_class":"","remove_override_class":"","disable_console":"","geoloc_enable":"by_ip","geoloc_force":"","geoloc_fail":"Geolocation is not supported by this browser","geot_cookies_duration":"999"};
+</script>
+<script src="js/geotarget-public.js" id="geot-js-js"></script>
+<script src="js/selectize.min.js" id="geot-slick-js"></script>
+<script id="app/0-js-extra">
+var sage = {"ajax_url":"https:\/\/skeepers.io\/wp-admin\/admin-ajax.php"};
+</script>
+<script id="app/0-js-before">
+(()=>{"use strict";var r,e={},o={};function t(r){var n=o[r];if(void 0!==n)return n.exports;var a=o[r]={exports:{}};return e[r](a,a.exports,t),a.exports}t.m=e,r=[],t.O=(e,o,n,a)=>{if(!o){var s=1/0;for(u=0;u<r.length;u++){for(var[o,n,a]=r[u],i=!0,f=0;f<o.length;f++)(!1&a||s>=a)&&Object.keys(t.O).every((r=>t.O[r](o[f])))?o.splice(f--,1):(i=!1,a<s&&(s=a));if(i){r.splice(u--,1);var l=n();void 0!==l&&(e=l)}}return e}a=a||0;for(var u=r.length;u>0&&r[u-1][2]>a;u--)r[u]=r[u-1];r[u]=[o,n,a]},t.d=(r,e)=>{for(var o in e)t.o(e,o)&&!t.o(r,o)&&Object.defineProperty(r,o,{enumerable:!0,get:e[o]})},t.o=(r,e)=>Object.prototype.hasOwnProperty.call(r,e),(()=>{var r={121:0};t.O.j=e=>0===r[e];var e=(e,o)=>{var n,a,[s,i,f]=o,l=0;if(s.some((e=>0!==r[e]))){for(n in i)t.o(i,n)&&(t.m[n]=i[n]);if(f)var u=f(t)}for(e&&e(o);l<s.length;l++)a=s[l],t.o(r,a)&&r[a]&&r[a][0](),r[a]=0;return t.O(u)},o=self.webpackChunk_roots_bud_sage=self.webpackChunk_roots_bud_sage||[];o.forEach(e.bind(null,0)),o.push=e.bind(null,o.push.bind(o))})()})();
+</script>
+<script src="js/app.db6c70.js" id="app/0-js"></script>
+
+
+
+</body></html>

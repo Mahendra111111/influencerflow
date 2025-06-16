@@ -1,0 +1,17 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="30" cy="30" r="30" fill="#fff0f3" />
+  
+  <!-- Handshake deal icon -->
+  <path d="M15 30 L 25 30" stroke="#ff5c35" stroke-width="2.5" stroke-linecap="round" />
+  <path d="M35 30 L 45 30" stroke="#ff5c35" stroke-width="2.5" stroke-linecap="round" />
+  
+  <!-- Hands shaking -->
+  <path d="M25 30 L 35 30 L 30 25 L 25 30" stroke="#ff5c35" stroke-width="2.5" fill="none" />
+  <path d="M25 30 L 35 30 L 30 35 L 25 30" stroke="#ff5c35" stroke-width="2.5" fill="none" />
+  
+  <!-- Dollar sign -->
+  <path d="M30 15 L 30 20" stroke="#ff5c35" stroke-width="2" stroke-linecap="round" />
+  <path d="M30 40 L 30 45" stroke="#ff5c35" stroke-width="2" stroke-linecap="round" />
+  <path d="M26 18 Q 30 15 34 18 Q 38 22 34 25 Q 30 28 26 25 Q 22 22 26 18" stroke="#ff5c35" stroke-width="2" fill="none" />
+  <path d="M26 35 Q 30 32 34 35 Q 38 38 34 42 Q 30 45 26 42 Q 22 38 26 35" stroke="#ff5c35" stroke-width="2" fill="none" />
+</svg> 

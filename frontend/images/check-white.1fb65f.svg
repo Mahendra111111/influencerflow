@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 10 10">
+  <defs>
+    <clipPath id="clip-OK">
+      <rect width="10" height="10"/>
+    </clipPath>
+  </defs>
+  <g id="OK" clip-path="url(#clip-OK)">
+    <path id="Tracé_1089" data-name="Tracé 1089" d="M3684.3,747.2l2.492,1.771,2.82-3.69" transform="translate(-3682 -742.36)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

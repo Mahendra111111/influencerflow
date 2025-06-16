@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-Search">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="Search" clip-path="url(#clip-Search)">
+    <g id="Groupe_1017" data-name="Groupe 1017" transform="translate(0.98 1.004)">
+      <g id="Ellipse_21" data-name="Ellipse 21" fill="none" stroke="#0073FF" stroke-width="2">
+        <ellipse cx="9.52" cy="9.52" rx="9.52" ry="9.52" stroke="#0073FF"/>
+        <ellipse cx="9.52" cy="9.52" rx="8.52" ry="8.52" fill="none"/>
+      </g>
+      <line id="Ligne_21" data-name="Ligne 21" x2="4.76" y2="3.808" transform="translate(15.232 16.185)" fill="none" stroke="#0073FF" stroke-linecap="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

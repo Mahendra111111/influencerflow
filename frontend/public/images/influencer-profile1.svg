@@ -1,0 +1,16 @@
+<svg width="120" height="120" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="60" cy="60" r="60" fill="#f5f7fa" />
+  <circle cx="60" cy="45" r="25" fill="#333" />
+  <rect x="35" y="50" width="50" height="60" rx="25" fill="#333" />
+  <rect x="30" y="75" width="60" height="20" rx="10" fill="#333" />
+  
+  <!-- Tech Burner - Indian Tech YouTuber with glasses -->
+  <rect x="45" y="38" width="30" height="10" rx="5" fill="#000" /> <!-- glasses -->
+  <line x1="45" y1="43" x2="35" y2="43" stroke="#000" stroke-width="2" /> <!-- glasses arm -->
+  <line x1="75" y1="43" x2="85" y2="43" stroke="#000" stroke-width="2" /> <!-- glasses arm -->
+  
+  <circle cx="50" cy="43" r="5" fill="#fff" stroke="#000" stroke-width="1" /> <!-- left lens -->
+  <circle cx="70" cy="43" r="5" fill="#fff" stroke="#000" stroke-width="1" /> <!-- right lens -->
+  
+  <path d="M50 60 Q 60 70 70 60" stroke="#fff" stroke-width="2" fill="none" /> <!-- smile -->
+</svg> 

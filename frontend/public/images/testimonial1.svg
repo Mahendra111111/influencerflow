@@ -1,0 +1,12 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="30" cy="30" r="30" fill="#f0f4ff" />
+  
+  <!-- Business person silhouette -->
+  <circle cx="30" cy="20" r="10" fill="#333" />
+  <path d="M15 60 Q 30 45 45 60" fill="#333" />
+  <rect x="20" y="30" width="20" height="20" fill="#333" />
+  
+  <!-- Business suit -->
+  <path d="M30 30 L 30 50" stroke="#fff" stroke-width="1.5" />
+  <path d="M25 35 L 35 35" stroke="#fff" stroke-width="1.5" />
+</svg> 

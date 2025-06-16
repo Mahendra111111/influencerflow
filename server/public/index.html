@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MCP Server API Test</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      line-height: 1.6;
+    }
+    h1 {
+      color: #ff5c35;
+    }
+    button {
+      background-color: #ff5c35;
+      color: white;
+      border: none;
+      padding: 10px 15px;
+      border-radius: 4px;
+      cursor: pointer;
+      margin: 5px;
+    }
+    button:hover {
+      background-color: #e54a24;
+    }
+    pre {
+      background-color: #f5f5f5;
+      padding: 15px;
+      border-radius: 4px;
+      overflow-x: auto;
+    }
+    .endpoint {
+      margin-bottom: 20px;
+      padding: 15px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+    }
+    .status {
+      font-weight: bold;
+    }
+    .success {
+      color: green;
+    }
+    .error {
+      color: red;
+    }
+  </style>
+</head>
+<body>
+  <h1>MCP Server API Test</h1>
+  <p>Use the buttons below to test different API endpoints.</p>
+
+  <div class="endpoint">
+    <h2>Test Connection</h2>
+    <button id="test-connection">Test Connection</button>
+    <div class="status" id="test-connection-status"></div>
+    <pre id="test-connection-result"></pre>
+  </div>
+
+  <div class="endpoint">
+    <h2>Dashboard Metrics</h2>
+    <button id="get-metrics">Get Metrics</button>
+    <div class="status" id="metrics-status"></div>
+    <pre id="metrics-result"></pre>
+  </div>
+
+  <div class="endpoint">
+    <h2>Influencers</h2>
+    <button id="get-influencers">Get All Influencers</button>
+    <div class="status" id="influencers-status"></div>
+    <pre id="influencers-result"></pre>
+  </div>
+
+  <script>
+    const API_BASE_URL = 'http://localhost:5000/api';
+
+    // Helper function to make API calls
+    async function callApi(endpoint, statusElement, resultElement) {
+      statusElement.textContent = 'Loading...';
+      statusElement.className = 'status';
+      
+      try {
+        const response = await fetch(`${API_BASE_URL}${endpoint}`);
+        const data = await response.json();
+        
+        statusElement.textContent = `Status: ${response.status} ${response.statusText}`;
+        statusElement.className = 'status success';
+        resultElement.textContent = JSON.stringify(data, null, 2);
+      } catch (error) {
+        statusElement.textContent = `Error: ${error.message}`;
+        statusElement.className = 'status error';
+        resultElement.textContent = '';
+      }
+    }
+
+    // Set up event listeners
+    document.getElementById('test-connection').addEventListener('click', () => {
+      callApi('/test-connection', 
+        document.getElementById('test-connection-status'), 
+        document.getElementById('test-connection-result'));
+    });
+
+    document.getElementById('get-metrics').addEventListener('click', () => {
+      callApi('/metrics', 
+        document.getElementById('metrics-status'), 
+        document.getElementById('metrics-result'));
+    });
+
+    document.getElementById('get-influencers').addEventListener('click', () => {
+      callApi('/influencers', 
+        document.getElementById('influencers-status'), 
+        document.getElementById('influencers-result'));
+    });
+  </script>
+</body>
+</html> 

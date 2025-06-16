@@ -1,0 +1,25 @@
+{
+  "name": "influencer-onboarding-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP Server for Influencer Onboarding System with Supabase Integration",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "setup": "node setup-env.js && node index.js",
+    "create-tables": "node create-tables.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.50.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^4.19.2",
+    "morgan": "^1.10.0",
+    "multer": "^2.0.1",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
