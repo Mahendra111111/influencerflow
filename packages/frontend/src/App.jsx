@@ -6,7 +6,7 @@ import InfluencerProfile from './Pages/Influencer/InfluencerProfile';
 import InfluencerRegistration from './Pages/Influencer/InfluencerRegistration';
 import TermsAndConditions from './Pages/Legal/TermsAndConditions';
 import PrivacyPolicy from './Pages/Legal/PrivacyPolicy';
-import Logs from './Pages/logs/logs';
+import Logs from './Pages/logs/logs.jsx';
 import LandingPage from './Pages/Landing/LandingPage';
 import './App.css';
 
