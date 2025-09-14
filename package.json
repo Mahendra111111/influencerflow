@@ -15,9 +15,14 @@
     "start": "cd packages/backend && npm start"
   },
   "dependencies": {
-    "@supabase/supabase-js": "^2.49.8"
+    "@supabase/supabase-js": "^2.50.0"
   },
   "engines": {
     "node": ">=18.x"
+  },
+  "overrides": {
+    "amqplib": "^0.10.3",
+    "uuid": "^9.0.1",
+    "core-js": "^3.38.1"
   }
 }
