@@ -38,3 +38,5 @@ Thumbs.db
 # Uploads
 packages/backend/public/uploads/*
 !packages/backend/public/uploads/.gitkeep 
+
+node_modules\
