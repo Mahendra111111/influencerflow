@@ -143,7 +143,7 @@ export const TWILIO_API_EXAMPLES = {
       date_created: 'Mon, 1 Jan 2024 10:00:00 +0000',
       date_updated: 'Mon, 1 Jan 2024 10:00:00 +0000',
       date_sent: 'Mon, 1 Jan 2024 10:00:05 +0000',
-      account_sid: 'ACXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+      account_sid: 'AC1234567890abcdef1234567890abcdef',
       to: '+1234567890',
       from: '+1987654321',
       body: 'Hi @CreatorName! Exciting collaboration opportunity...',
@@ -173,7 +173,7 @@ export const TWILIO_API_EXAMPLES = {
       sid: 'CA1234567890abcdef1234567890abcdef',
       date_created: 'Mon, 1 Jan 2024 10:00:00 +0000',
       date_updated: 'Mon, 1 Jan 2024 10:00:00 +0000',
-      account_sid: 'ACXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+      account_sid: 'AC1234567890abcdef1234567890abcdef',
       to: '+1234567890',
       from: '+1987654321',
       status: 'queued',
@@ -205,7 +205,7 @@ export const TWILIO_API_EXAMPLES = {
       MessageStatus: 'delivered',
       To: '+1234567890',
       From: '+1987654321',
-      AccountSid: 'ACXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+      AccountSid: 'AC1234567890abcdef1234567890abcdef',
       Body: 'Hi @CreatorName! Exciting collaboration opportunity...'
     }
   },
@@ -217,7 +217,7 @@ export const TWILIO_API_EXAMPLES = {
       From: '+1234567890',
       To: '+1987654321',
       Body: 'YES, I\'m interested! Tell me more about the campaign.',
-      AccountSid: 'ACXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+      AccountSid: 'AC1234567890abcdef1234567890abcdef',
       NumMedia: '0'
     }
   }
